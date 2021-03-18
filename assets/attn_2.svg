@@ -1,0 +1,547 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1825" height="1171" viewBox="0 0 1825 1171">
+  <defs>
+    <rect id="aiayn-self-attention-mechanism---umaneo-fr-b" width="86" height="307" x="0" y="0"/>
+    <filter id="aiayn-self-attention-mechanism---umaneo-fr-a" width="293%" height="154.1%" x="-84.9%" y="-21.8%" filterUnits="objectBoundingBox">
+      <feOffset dx="10" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="25"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.145098039   0 0 0 0 0.215686275   0 0 0 0 0.396078431  0 0 0 0.13 0"/>
+    </filter>
+    <rect id="aiayn-self-attention-mechanism---umaneo-fr-d" width="70" height="70" x="0" y="0" rx="3"/>
+    <filter id="aiayn-self-attention-mechanism---umaneo-fr-c" width="337.1%" height="337.1%" x="-104.3%" y="-95.7%" filterUnits="objectBoundingBox">
+      <feOffset dx="10" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="25"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.145098039   0 0 0 0 0.215686275   0 0 0 0 0.396078431  0 0 0 0.13 0"/>
+    </filter>
+    <rect id="aiayn-self-attention-mechanism---umaneo-fr-f" width="70" height="70" x="0" y="0" rx="3"/>
+    <filter id="aiayn-self-attention-mechanism---umaneo-fr-e" width="337.1%" height="337.1%" x="-104.3%" y="-95.7%" filterUnits="objectBoundingBox">
+      <feOffset dx="10" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="25"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.145098039   0 0 0 0 0.215686275   0 0 0 0 0.396078431  0 0 0 0.13 0"/>
+    </filter>
+    <rect id="aiayn-self-attention-mechanism---umaneo-fr-h" width="70" height="70" x="0" y="0" rx="3"/>
+    <filter id="aiayn-self-attention-mechanism---umaneo-fr-g" width="337.1%" height="337.1%" x="-104.3%" y="-95.7%" filterUnits="objectBoundingBox">
+      <feOffset dx="10" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="25"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.145098039   0 0 0 0 0.215686275   0 0 0 0 0.396078431  0 0 0 0.13 0"/>
+    </filter>
+    <rect id="aiayn-self-attention-mechanism---umaneo-fr-j" width="70" height="70" x="0" y="0" rx="3"/>
+    <filter id="aiayn-self-attention-mechanism---umaneo-fr-i" width="337.1%" height="337.1%" x="-104.3%" y="-95.7%" filterUnits="objectBoundingBox">
+      <feOffset dx="10" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="25"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.145098039   0 0 0 0 0.215686275   0 0 0 0 0.396078431  0 0 0 0.13 0"/>
+    </filter>
+    <rect id="aiayn-self-attention-mechanism---umaneo-fr-l" width="70" height="70" x="0" y="0" rx="3"/>
+    <filter id="aiayn-self-attention-mechanism---umaneo-fr-k" width="337.1%" height="337.1%" x="-104.3%" y="-95.7%" filterUnits="objectBoundingBox">
+      <feOffset dx="10" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="25"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.145098039   0 0 0 0 0.215686275   0 0 0 0 0.396078431  0 0 0 0.13 0"/>
+    </filter>
+    <rect id="aiayn-self-attention-mechanism---umaneo-fr-n" width="70" height="70" x="0" y="0" rx="3"/>
+    <filter id="aiayn-self-attention-mechanism---umaneo-fr-m" width="337.1%" height="337.1%" x="-104.3%" y="-95.7%" filterUnits="objectBoundingBox">
+      <feOffset dx="10" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="25"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.145098039   0 0 0 0 0.215686275   0 0 0 0 0.396078431  0 0 0 0.13 0"/>
+    </filter>
+    <path id="aiayn-self-attention-mechanism---umaneo-fr-o" d="M9.16666667,4.16666667 C9.16666667,3.70642938 9.53976271,3.33333333 10,3.33333333 C10.4602373,3.33333333 10.8333333,3.70642938 10.8333333,4.16666667 L10.8333333,15.8333333 C10.8333333,16.2935706 10.4602373,16.6666667 10,16.6666667 C9.53976271,16.6666667 9.16666667,16.2935706 9.16666667,15.8333333 L9.16666667,4.16666667 Z M4.16666667,10.8333333 C3.70642938,10.8333333 3.33333333,10.4602373 3.33333333,10 C3.33333333,9.53976271 3.70642938,9.16666667 4.16666667,9.16666667 L15.8333333,9.16666667 C16.2935706,9.16666667 16.6666667,9.53976271 16.6666667,10 C16.6666667,10.4602373 16.2935706,10.8333333 15.8333333,10.8333333 L4.16666667,10.8333333 Z"/>
+    <path id="aiayn-self-attention-mechanism---umaneo-fr-q" d="M11.8579839,3.62941249 C12.125772,3.36162441 12.5599423,3.36162441 12.8277304,3.62941249 C13.0955185,3.89720058 13.0955185,4.33137085 12.8277304,4.59915894 L4.59915894,12.8277304 C4.33137085,13.0955185 3.89720058,13.0955185 3.62941249,12.8277304 C3.36162441,12.5599423 3.36162441,12.125772 3.62941249,11.8579839 L11.8579839,3.62941249 Z M3.62941249,4.59915894 C3.36162441,4.33137085 3.36162441,3.89720058 3.62941249,3.62941249 C3.89720058,3.36162441 4.33137085,3.36162441 4.59915894,3.62941249 L12.8277304,11.8579839 C13.0955185,12.125772 13.0955185,12.5599423 12.8277304,12.8277304 C12.5599423,13.0955185 12.125772,13.0955185 11.8579839,12.8277304 L3.62941249,4.59915894 Z"/>
+    <path id="aiayn-self-attention-mechanism---umaneo-fr-s" d="M11.8579839,3.62941249 C12.125772,3.36162441 12.5599423,3.36162441 12.8277304,3.62941249 C13.0955185,3.89720058 13.0955185,4.33137085 12.8277304,4.59915894 L4.59915894,12.8277304 C4.33137085,13.0955185 3.89720058,13.0955185 3.62941249,12.8277304 C3.36162441,12.5599423 3.36162441,12.125772 3.62941249,11.8579839 L11.8579839,3.62941249 Z M3.62941249,4.59915894 C3.36162441,4.33137085 3.36162441,3.89720058 3.62941249,3.62941249 C3.89720058,3.36162441 4.33137085,3.36162441 4.59915894,3.62941249 L12.8277304,11.8579839 C13.0955185,12.125772 13.0955185,12.5599423 12.8277304,12.8277304 C12.5599423,13.0955185 12.125772,13.0955185 11.8579839,12.8277304 L3.62941249,4.59915894 Z"/>
+    <path id="aiayn-self-attention-mechanism---umaneo-fr-u" d="M11.8579839,3.62941249 C12.125772,3.36162441 12.5599423,3.36162441 12.8277304,3.62941249 C13.0955185,3.89720058 13.0955185,4.33137085 12.8277304,4.59915894 L4.59915894,12.8277304 C4.33137085,13.0955185 3.89720058,13.0955185 3.62941249,12.8277304 C3.36162441,12.5599423 3.36162441,12.125772 3.62941249,11.8579839 L11.8579839,3.62941249 Z M3.62941249,4.59915894 C3.36162441,4.33137085 3.36162441,3.89720058 3.62941249,3.62941249 C3.89720058,3.36162441 4.33137085,3.36162441 4.59915894,3.62941249 L12.8277304,11.8579839 C13.0955185,12.125772 13.0955185,12.5599423 12.8277304,12.8277304 C12.5599423,13.0955185 12.125772,13.0955185 11.8579839,12.8277304 L3.62941249,4.59915894 Z"/>
+    <rect id="aiayn-self-attention-mechanism---umaneo-fr-x" width="70" height="70" x="0" y="0" rx="3"/>
+    <filter id="aiayn-self-attention-mechanism---umaneo-fr-w" width="337.1%" height="337.1%" x="-104.3%" y="-95.7%" filterUnits="objectBoundingBox">
+      <feOffset dx="10" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="25"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.145098039   0 0 0 0 0.215686275   0 0 0 0 0.396078431  0 0 0 0.13 0"/>
+    </filter>
+    <rect id="aiayn-self-attention-mechanism---umaneo-fr-z" width="70" height="70" x="0" y="0" rx="3"/>
+    <filter id="aiayn-self-attention-mechanism---umaneo-fr-y" width="337.1%" height="337.1%" x="-104.3%" y="-95.7%" filterUnits="objectBoundingBox">
+      <feOffset dx="10" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="25"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.145098039   0 0 0 0 0.215686275   0 0 0 0 0.396078431  0 0 0 0.13 0"/>
+    </filter>
+    <rect id="aiayn-self-attention-mechanism---umaneo-fr-B" width="70" height="70" x="0" y="0" rx="3"/>
+    <filter id="aiayn-self-attention-mechanism---umaneo-fr-A" width="337.1%" height="337.1%" x="-104.3%" y="-95.7%" filterUnits="objectBoundingBox">
+      <feOffset dx="10" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="25"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.145098039   0 0 0 0 0.215686275   0 0 0 0 0.396078431  0 0 0 0.13 0"/>
+    </filter>
+    <rect id="aiayn-self-attention-mechanism---umaneo-fr-D" width="70" height="70" x="0" y="0" rx="3"/>
+    <filter id="aiayn-self-attention-mechanism---umaneo-fr-C" width="337.1%" height="337.1%" x="-104.3%" y="-95.7%" filterUnits="objectBoundingBox">
+      <feOffset dx="10" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="25"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.145098039   0 0 0 0 0.215686275   0 0 0 0 0.396078431  0 0 0 0.13 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="1825" height="1171" fill="#FFF"/>
+    <path stroke="#BDC9D6" stroke-dasharray="4 12" stroke-width="2" d="M127 583L526 583C542.568542 583 556 596.431458 556 613L556 936C556 952.568542 542.568542 966 526 966L127 966C110.431458 966 97 952.568542 97 936L97 613C97 596.431458 110.431458 583 127 583zM776 96L1699 96C1715.56854 96 1729 109.431458 1729 126L1729 1045C1729 1061.56854 1715.56854 1075 1699 1075L776 1075C759.431458 1075 746 1061.56854 746 1045L746 126C746 109.431458 759.431458 96 776 96z"/>
+    <g transform="translate(1368 405)">
+      <rect width="56" height="175" fill="#FFF" stroke="#BDC9D6"/>
+      <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600" letter-spacing="1.1" transform="rotate(90 28 87.5)">
+        <tspan x="-22.636" y="96">Softmax</tspan>
+      </text>
+    </g>
+    <g transform="rotate(-90 439.5 263.5)">
+      <g transform="matrix(-1 0 0 1 86 0)">
+        <use fill="#000" filter="url(#aiayn-self-attention-mechanism---umaneo-fr-a)" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-b"/>
+        <use fill="#FFF" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-b"/>
+      </g>
+      <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600" letter-spacing="1.1" transform="rotate(90 43 154)">
+        <tspan x="-78.02" y="148.5">Scaled Dot-Product</tspan> <tspan x="-20.662" y="177.5" font-family="Gilroy-Light, Gilroy" font-weight="300">Attention 1</tspan>
+      </text>
+      <g transform="translate(137 86)">
+        <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="48" font-weight="600" letter-spacing="2.2" transform="rotate(90 38 64.5)">
+          <tspan x="-25.944" y="81">Head</tspan>
+        </text>
+        <text fill="#00BAFF" font-family="Gilroy-Light, Gilroy" font-size="32" font-weight="300" transform="rotate(90 19 136)">
+          <tspan x="15.736" y="146.5">i</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="translate(176 783)">
+      <use fill="#000" filter="url(#aiayn-self-attention-mechanism---umaneo-fr-c)" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-d"/>
+      <use fill="#FFF" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-d"/>
+      <g transform="translate(16 16)">
+        <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600">
+          <tspan x=".024" y="26">W</tspan>
+        </text>
+        <text fill="#00BAFF" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+          <tspan x="27.344" y="35">1</tspan>
+        </text>
+        <text fill="#18CDCA" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+          <tspan x="27.16" y="15">V</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="translate(294 783)">
+      <use fill="#000" filter="url(#aiayn-self-attention-mechanism---umaneo-fr-e)" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-f"/>
+      <use fill="#FFF" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-f"/>
+      <g transform="translate(16 16)">
+        <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600">
+          <tspan x=".024" y="26">W</tspan>
+        </text>
+        <text fill="#00BAFF" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+          <tspan x="27.344" y="35">1</tspan>
+        </text>
+        <text fill="#18CDCA" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+          <tspan x="27.424" y="15">K</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="translate(412 783)">
+      <use fill="#000" filter="url(#aiayn-self-attention-mechanism---umaneo-fr-g)" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-h"/>
+      <use fill="#FFF" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-h"/>
+      <g transform="translate(16 16)">
+        <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600">
+          <tspan x=".024" y="26">W</tspan>
+        </text>
+        <text fill="#00BAFF" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+          <tspan x="27.344" y="35">1</tspan>
+        </text>
+        <text fill="#18CDCA" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+          <tspan x="27.432" y="15">Q</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="translate(1434 741)">
+      <g transform="translate(164)">
+        <use fill="#000" filter="url(#aiayn-self-attention-mechanism---umaneo-fr-i)" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-j"/>
+        <use fill="#FFF" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-j"/>
+        <g transform="translate(16 16)">
+          <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600">
+            <tspan x=".024" y="26">W</tspan>
+          </text>
+          <text fill="#00BAFF" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+            <tspan x="27.344" y="35">1</tspan>
+          </text>
+          <text fill="#18CDCA" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+            <tspan x="27.16" y="15">V</tspan>
+          </text>
+        </g>
+      </g>
+      <g transform="translate(82)">
+        <use fill="#000" filter="url(#aiayn-self-attention-mechanism---umaneo-fr-k)" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-l"/>
+        <use fill="#FFF" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-l"/>
+        <g transform="translate(16 16)">
+          <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600">
+            <tspan x=".024" y="26">W</tspan>
+          </text>
+          <text fill="#00BAFF" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+            <tspan x="27.344" y="35">1</tspan>
+          </text>
+          <text fill="#18CDCA" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+            <tspan x="27.16" y="15">V</tspan>
+          </text>
+        </g>
+      </g>
+      <use fill="#000" filter="url(#aiayn-self-attention-mechanism---umaneo-fr-m)" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-n"/>
+      <use fill="#FFF" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-n"/>
+      <g transform="translate(16 16)">
+        <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600">
+          <tspan x=".024" y="26">W</tspan>
+        </text>
+        <text fill="#00BAFF" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+          <tspan x="27.344" y="35">1</tspan>
+        </text>
+        <text fill="#18CDCA" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+          <tspan x="27.16" y="15">V</tspan>
+        </text>
+      </g>
+      <g transform="translate(14 244)">
+        <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="36" font-weight="600">
+          <tspan x=".96" y="43">x</tspan>
+        </text>
+        <text fill="#BDC9D6" font-family="Gilroy-Light, Gilroy" font-size="24" font-weight="300">
+          <tspan x="24" y="50">0</tspan>
+        </text>
+      </g>
+      <g transform="translate(98 244)">
+        <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="36" font-weight="600">
+          <tspan x=".96" y="43">x</tspan>
+        </text>
+        <text fill="#BDC9D6" font-family="Gilroy-Light, Gilroy" font-size="24" font-weight="300">
+          <tspan x="24" y="50">1</tspan>
+        </text>
+      </g>
+      <g transform="translate(179 244)">
+        <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="36" font-weight="600">
+          <tspan x=".96" y="43">x</tspan>
+        </text>
+        <text fill="#BDC9D6" font-family="Gilroy-Light, Gilroy" font-size="24" font-weight="300">
+          <tspan x="24" y="50">2</tspan>
+        </text>
+      </g>
+      <g stroke="#253765" transform="translate(19 125)">
+        <rect width="31" height="31" x=".5" y=".5"/>
+        <rect width="31" height="31" x=".5" y="31.5"/>
+        <rect width="31" height="31" x=".5" y="62.5"/>
+        <rect width="31" height="31" x=".5" y="93.5"/>
+      </g>
+      <g stroke="#253765" transform="translate(101 125)">
+        <rect width="31" height="31" x=".5" y=".5" fill="#FFF"/>
+        <rect width="31" height="31" x=".5" y="31.5"/>
+        <rect width="31" height="31" x=".5" y="62.5"/>
+        <rect width="31" height="31" x=".5" y="93.5"/>
+      </g>
+      <g stroke="#253765" transform="translate(182 125)">
+        <rect width="31" height="31" x=".5" y=".5" fill="#FFF"/>
+        <rect width="31" height="31" x=".5" y="31.5"/>
+        <rect width="31" height="31" x=".5" y="62.5"/>
+        <rect width="31" height="31" x=".5" y="93.5"/>
+      </g>
+      <path stroke="#BDC9D6" stroke-width="2" d="M35 70L35 125M117 70L117 125M198 70L198 125"/>
+    </g>
+    <path fill="#BDC9D6" fill-rule="nonzero" d="M451,868 L458,882 L452,882 L452,929 L207,929 L207,882 L201,882 L208,868 L215,882 L209,882 L209,927 L450,927 L450,882 L444,882 L451,868 Z"/>
+    <path fill="#BDC9D6" fill-rule="nonzero" d="M329,868 L336,882 L330,882 L330,928 L328,928 L328,882 L322,882 L329,868 Z"/>
+    <g transform="rotate(-90 556.5 236)">
+      <path fill="#BDC9D6" fill-rule="nonzero" d="M56,1.5 L70,8.5 L56,15.5 L56,9.5 L17,9.5 C16.4871642,9.5 16.0644928,9.11395981 16.0067277,8.61662113 L16,8.5 C16,7.94771525 16.4477153,7.5 17,7.5 L17,7.5 L56,7.5 L56,1.5 Z"/>
+      <circle cx="8.5" cy="8.5" r="8.5" fill="#FFF" stroke="#37C574" stroke-width="2.4"/>
+      <path fill="#37C574" d="M13,8.50021534 C13,10.9856917 10.985261,13 8.50021534,13 C6.01430827,13 4,10.985261 4,8.50021534 C4,6.01473896 6.01430827,4 8.50021534,4 C10.985261,4 13,6.01473896 13,8.50021534"/>
+    </g>
+    <g transform="rotate(-90 473.5 153)">
+      <path fill="#BDC9D6" fill-rule="nonzero" d="M56,1.5 L70,8.5 L56,15.5 L56,9.5 L17,9.5 C16.4871642,9.5 16.0644928,9.11395981 16.0067277,8.61662113 L16,8.5 C16,7.94771525 16.4477153,7.5 17,7.5 L17,7.5 L56,7.5 L56,1.5 Z"/>
+      <circle cx="8.5" cy="8.5" r="8.5" fill="#FFF" stroke="#37C574" stroke-width="2.4"/>
+      <path fill="#37C574" d="M13,8.50021534 C13,10.9856917 10.985261,13 8.50021534,13 C6.01430827,13 4,10.985261 4,8.50021534 C4,6.01473896 6.01430827,4 8.50021534,4 C10.985261,4 13,6.01473896 13,8.50021534"/>
+    </g>
+    <g transform="rotate(-90 615.5 177)">
+      <path fill="#BDC9D6" fill-rule="nonzero" d="M56,1.5 L70,8.5 L56,15.5 L56,9.5 L17,9.5 C16.4871642,9.5 16.0644928,9.11395981 16.0067277,8.61662113 L16,8.5 C16,7.94771525 16.4477153,7.5 17,7.5 L17,7.5 L56,7.5 L56,1.5 Z"/>
+      <circle cx="8.5" cy="8.5" r="8.5" fill="#FFF" stroke="#37C574" stroke-width="2.4"/>
+      <path fill="#37C574" d="M13,8.50021534 C13,10.9856917 10.985261,13 8.50021534,13 C6.01430827,13 4,10.985261 4,8.50021534 C4,6.01473896 6.01430827,4 8.50021534,4 C10.985261,4 13,6.01473896 13,8.50021534"/>
+    </g>
+    <g transform="rotate(-90 497.5 295)">
+      <path fill="#BDC9D6" fill-rule="nonzero" d="M56,1.5 L70,8.5 L56,15.5 L56,9.5 L17,9.5 C16.4871642,9.5 16.0644928,9.11395981 16.0067277,8.61662113 L16,8.5 C16,7.94771525 16.4477153,7.5 17,7.5 L17,7.5 L56,7.5 L56,1.5 Z"/>
+      <circle cx="8.5" cy="8.5" r="8.5" fill="#FFF" stroke="#37C574" stroke-width="2.4"/>
+      <path fill="#37C574" d="M13,8.50021534 C13,10.9856917 10.985261,13 8.50021534,13 C6.01430827,13 4,10.985261 4,8.50021534 C4,6.01473896 6.01430827,4 8.50021534,4 C10.985261,4 13,6.01473896 13,8.50021534"/>
+    </g>
+    <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="32" font-weight="600">
+      <tspan x="178.44" y="768">V</tspan>
+    </text>
+    <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="32" font-weight="600">
+      <tspan x="165" y="921.64">V</tspan>
+    </text>
+    <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="32" font-weight="600">
+      <tspan x="286" y="921.64">K</tspan>
+    </text>
+    <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="32" font-weight="600">
+      <tspan x="407" y="921.64">Q</tspan>
+    </text>
+    <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="32" font-weight="600">
+      <tspan x="296.984" y="768">K</tspan>
+    </text>
+    <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="32" font-weight="600">
+      <tspan x="412.312" y="768">Q</tspan>
+    </text>
+    <path stroke="#BDC9D6" stroke-dasharray="4 12" stroke-width="2" d="M534 966L768 1075M546 586L747 117"/>
+    <g transform="translate(1439 148)">
+      <g stroke="#37C574" transform="translate(14 137)">
+        <rect width="31" height="31" x=".5" y=".5"/>
+        <rect width="31" height="31" x=".5" y="31.5"/>
+      </g>
+      <g stroke="#37C574" transform="translate(96 137)">
+        <rect width="31" height="31" x=".5" y=".5"/>
+        <rect width="31" height="31" x=".5" y="31.5"/>
+      </g>
+      <g stroke="#37C574" transform="translate(177 137)">
+        <rect width="31" height="31" x=".5" y=".5"/>
+        <rect width="31" height="31" x=".5" y="31.5"/>
+      </g>
+      <g transform="rotate(-90 54.5 13.5)">
+        <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="48" font-weight="600" letter-spacing="2.2" transform="rotate(90 38 64.5)">
+          <tspan x="-25.944" y="81">Head</tspan>
+        </text>
+        <text fill="#00BAFF" font-family="Gilroy-Light, Gilroy" font-size="32" font-weight="300" transform="rotate(90 19 136)">
+          <tspan x="15.736" y="146.5">i</tspan>
+        </text>
+      </g>
+      <path stroke="#BDC9D6" stroke-linecap="round" stroke-width="2" d="M0 82C-3.44940413e-15 53.8334778 22.8334778 31 51 31L165 31C197.032515 31 223 56.9674845 223 89L223 89 223 89M111.5 31L111.5 0" transform="translate(0 62)"/>
+    </g>
+    <g stroke="#37C574" transform="translate(1616 655)">
+      <rect width="31" height="31" x=".5" y=".5"/>
+      <rect width="31" height="31" x=".5" y="31.5"/>
+    </g>
+    <g stroke="#37C574" transform="translate(1535 655)">
+      <rect width="31" height="31" x=".5" y=".5"/>
+      <rect width="31" height="31" x=".5" y="31.5"/>
+    </g>
+    <g stroke="#37C574" transform="translate(1453 655)">
+      <rect width="31" height="31" x=".5" y=".5"/>
+      <rect width="31" height="31" x=".5" y="31.5"/>
+    </g>
+    <path stroke="#37C574" stroke-width="2" d="M1632.5,348 L1632.5,655"/>
+    <path stroke="#F84539" stroke-width="2" d="M1270.5,418 L1270.5,613"/>
+    <path stroke="#37C574" stroke-width="2" d="M1551,489 L1551,655"/>
+    <path stroke="#F84539" stroke-width="2" d="M1189,489 L1189,613"/>
+    <path stroke="#37C574" stroke-width="2" d="M1469,563 L1469,655"/>
+    <path stroke="#F84539" stroke-width="2" d="M1107,540 L1106.75,613"/>
+    <g transform="rotate(-90 830 -236.5)">
+      <rect width="56" height="81" fill="#FFF" stroke="#BDC9D6"/>
+      <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600" letter-spacing="1.1" transform="rotate(90 28 40.5)">
+        <tspan x="7.516" y="49">dot</tspan>
+      </text>
+    </g>
+    <g transform="rotate(-90 833.5 -314)">
+      <rect width="56" height="81" fill="#FFF" stroke="#BDC9D6"/>
+      <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600" letter-spacing="1.1" transform="rotate(90 28 40.5)">
+        <tspan x="7.516" y="49">dot</tspan>
+      </text>
+    </g>
+    <g transform="rotate(-90 837.5 -392)">
+      <rect width="56" height="81" fill="#FFF" stroke="#BDC9D6"/>
+      <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600" letter-spacing="1.1" transform="rotate(90 28 40.5)">
+        <tspan x="7.516" y="49">dot</tspan>
+      </text>
+    </g>
+    <g transform="translate(1302 410)">
+      <path fill="#BDC9D6" fill-rule="nonzero" d="M47,1.5 L61,8.5 L47,15.5 L47,9.5 L17,9.5 C16.4871642,9.5 16.0644928,9.11395981 16.0067277,8.61662113 L16,8.5 C16,7.94771525 16.4477153,7.5 17,7.5 L17,7.5 L47,7.5 L47,1.5 Z"/>
+      <circle cx="8.5" cy="8.5" r="8.5" fill="#FFF" stroke="#37C574" stroke-width="2.4"/>
+      <path fill="#37C574" d="M13,8.50021534 C13,10.9856917 10.985261,13 8.50021534,13 C6.01430827,13 4,10.985261 4,8.50021534 C4,6.01473896 6.01430827,4 8.50021534,4 C10.985261,4 13,6.01473896 13,8.50021534"/>
+    </g>
+    <g transform="translate(1415 410)">
+      <path fill="#BDC9D6" fill-rule="nonzero" d="M187,1.5 L201,8.5 L187,15.5 L187,9.5 L17,9.5 C16.4871642,9.5 16.0644928,9.11395981 16.0067277,8.61662113 L16,8.5 C16,7.94771525 16.4477153,7.5 17,7.5 L17,7.5 L187,7.5 L187,1.5 Z"/>
+      <circle cx="8.5" cy="8.5" r="8.5" fill="#FFF" stroke="#37C574" stroke-width="2.4"/>
+      <path fill="#37C574" d="M13,8.50021534 C13,10.9856917 10.985261,13 8.50021534,13 C6.01430827,13 4,10.985261 4,8.50021534 C4,6.01473896 6.01430827,4 8.50021534,4 C10.985261,4 13,6.01473896 13,8.50021534"/>
+    </g>
+    <g transform="translate(1415 481)">
+      <path fill="#BDC9D6" fill-rule="nonzero" d="M106,1.5 L120,8.5 L106,15.5 L106,9.5 L17,9.5 C16.4871642,9.5 16.0644928,9.11395981 16.0067277,8.61662113 L16,8.5 C16,7.94771525 16.4477153,7.5 17,7.5 L17,7.5 L106,7.5 L106,1.5 Z"/>
+      <circle cx="8.5" cy="8.5" r="8.5" fill="#FFF" stroke="#37C574" stroke-width="2.4"/>
+      <path fill="#37C574" d="M13,8.50021534 C13,10.9856917 10.985261,13 8.50021534,13 C6.01430827,13 4,10.985261 4,8.50021534 C4,6.01473896 6.01430827,4 8.50021534,4 C10.985261,4 13,6.01473896 13,8.50021534"/>
+    </g>
+    <g transform="translate(1415 557)">
+      <path fill="#BDC9D6" fill-rule="nonzero" d="M24,1.5 L38,8.5 L24,15.5 L24,9.5 L17,9.5 C16.4871642,9.5 16.0644928,9.11395981 16.0067277,8.61662113 L16,8.5 C16,7.94771525 16.4477153,7.5 17,7.5 L17,7.5 L24,7.5 L24,1.5 Z"/>
+      <circle cx="8.5" cy="8.5" r="8.5" fill="#FFF" stroke="#37C574" stroke-width="2.4"/>
+      <path fill="#37C574" d="M13,8.50021534 C13,10.9856917 10.985261,13 8.50021534,13 C6.01430827,13 4,10.985261 4,8.50021534 C4,6.01473896 6.01430827,4 8.50021534,4 C10.985261,4 13,6.01473896 13,8.50021534"/>
+    </g>
+    <g transform="translate(1221 484)">
+      <path fill="#BDC9D6" fill-rule="nonzero" d="M128,1.5 L142,8.5 L128,15.5 L128,9.5 L17,9.5 C16.4871642,9.5 16.0644928,9.11395981 16.0067277,8.61662113 L16,8.5 C16,7.94771525 16.4477153,7.5 17,7.5 L17,7.5 L128,7.5 L128,1.5 Z"/>
+      <circle cx="8.5" cy="8.5" r="8.5" fill="#FFF" stroke="#37C574" stroke-width="2.4"/>
+      <path fill="#37C574" d="M13,8.50021534 C13,10.9856917 10.985261,13 8.50021534,13 C6.01430827,13 4,10.985261 4,8.50021534 C4,6.01473896 6.01430827,4 8.50021534,4 C10.985261,4 13,6.01473896 13,8.50021534"/>
+    </g>
+    <g transform="translate(1139 558)">
+      <path fill="#BDC9D6" fill-rule="nonzero" d="M209,1.5 L223,8.5 L209,15.5 L209,9.5 L17,9.5 C16.4871642,9.5 16.0644928,9.11395981 16.0067277,8.61662113 L16,8.5 C16,7.94771525 16.4477153,7.5 17,7.5 L17,7.5 L209,7.5 L209,1.5 Z"/>
+      <circle cx="8.5" cy="8.5" r="8.5" fill="#FFF" stroke="#37C574" stroke-width="2.4"/>
+      <path fill="#37C574" d="M13,8.50021534 C13,10.9856917 10.985261,13 8.50021534,13 C6.01430827,13 4,10.985261 4,8.50021534 C4,6.01473896 6.01430827,4 8.50021534,4 C10.985261,4 13,6.01473896 13,8.50021534"/>
+    </g>
+    <g transform="translate(1620 358)">
+      <circle cx="12.75" cy="12.75" r="12.75" fill="#FFF" stroke="#F84539" stroke-width="3.6"/>
+      <g transform="translate(3 3)">
+        <mask id="aiayn-self-attention-mechanism---umaneo-fr-p" fill="#fff">
+          <use xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-o"/>
+        </mask>
+        <g fill="#F15757" mask="url(#aiayn-self-attention-mechanism---umaneo-fr-p)">
+          <rect width="19.93" height="20"/>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(1622 408)">
+      <circle cx="10.2" cy="10.2" r="10.2" fill="#FFF" stroke="#37C574" stroke-width="2.88"/>
+      <g transform="translate(2 2)">
+        <mask id="aiayn-self-attention-mechanism---umaneo-fr-r" fill="#fff">
+          <use xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-q"/>
+        </mask>
+        <g fill="#33CB99" mask="url(#aiayn-self-attention-mechanism---umaneo-fr-r)">
+          <rect width="16" height="16.035"/>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(1541 479)">
+      <circle cx="10.2" cy="10.2" r="10.2" fill="#FFF" stroke="#37C574" stroke-width="2.88"/>
+      <g transform="translate(2 2)">
+        <mask id="aiayn-self-attention-mechanism---umaneo-fr-t" fill="#fff">
+          <use xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-s"/>
+        </mask>
+        <g fill="#33CB99" mask="url(#aiayn-self-attention-mechanism---umaneo-fr-t)">
+          <rect width="16" height="16.035"/>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(1459 555)">
+      <circle cx="10.2" cy="10.2" r="10.2" fill="#FFF" stroke="#37C574" stroke-width="2.88"/>
+      <g transform="translate(2 2)">
+        <mask id="aiayn-self-attention-mechanism---umaneo-fr-v" fill="#fff">
+          <use xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-u"/>
+        </mask>
+        <g fill="#33CB99" mask="url(#aiayn-self-attention-mechanism---umaneo-fr-v)">
+          <rect width="16" height="16.035"/>
+        </g>
+      </g>
+    </g>
+    <path stroke="#37C574" stroke-width="2" d="M1632,394 C1587.81722,394 1552,429.81722 1552,474 L1552,479 L1552,479"/>
+    <path stroke="#37C574" d="M1633,394 L1569,394 C1513.77153,394 1469,438.771525 1469,494 L1469,555 L1469,555"/>
+    <path stroke="#37C574" stroke-width="2" d="M1469.5 738L1469.5 718M1551.5 738L1551.5 718M1632.5 738L1632.5 718"/>
+    <g transform="translate(890 413)">
+      <g transform="translate(345 283)">
+        <use fill="#000" filter="url(#aiayn-self-attention-mechanism---umaneo-fr-w)" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-x"/>
+        <use fill="#FFF" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-x"/>
+        <g transform="translate(16 16)">
+          <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600">
+            <tspan x=".024" y="26">W</tspan>
+          </text>
+          <text fill="#00BAFF" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+            <tspan x="27.344" y="35">1</tspan>
+          </text>
+          <text fill="#18CDCA" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+            <tspan x="27.424" y="15">K</tspan>
+          </text>
+        </g>
+      </g>
+      <g transform="translate(263 283)">
+        <use fill="#000" filter="url(#aiayn-self-attention-mechanism---umaneo-fr-y)" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-z"/>
+        <use fill="#FFF" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-z"/>
+        <g transform="translate(16 16)">
+          <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600">
+            <tspan x=".024" y="26">W</tspan>
+          </text>
+          <text fill="#00BAFF" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+            <tspan x="27.344" y="35">1</tspan>
+          </text>
+          <text fill="#18CDCA" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+            <tspan x="27.424" y="15">K</tspan>
+          </text>
+        </g>
+      </g>
+      <g transform="translate(181 283)">
+        <use fill="#000" filter="url(#aiayn-self-attention-mechanism---umaneo-fr-A)" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-B"/>
+        <use fill="#FFF" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-B"/>
+        <g transform="translate(16 16)">
+          <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600">
+            <tspan x=".024" y="26">W</tspan>
+          </text>
+          <text fill="#00BAFF" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+            <tspan x="27.344" y="35">1</tspan>
+          </text>
+          <text fill="#18CDCA" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+            <tspan x="27.424" y="15">K</tspan>
+          </text>
+        </g>
+      </g>
+      <g transform="translate(0 131)">
+        <use fill="#000" filter="url(#aiayn-self-attention-mechanism---umaneo-fr-C)" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-D"/>
+        <use fill="#FFF" xlink:href="#aiayn-self-attention-mechanism---umaneo-fr-D"/>
+        <g transform="translate(16 16)">
+          <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600">
+            <tspan x=".024" y="26">W</tspan>
+          </text>
+          <text fill="#00BAFF" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+            <tspan x="27.344" y="35">1</tspan>
+          </text>
+          <text fill="#18CDCA" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+            <tspan x="27.432" y="15">Q</tspan>
+          </text>
+        </g>
+      </g>
+      <g stroke="#F84539" transform="translate(363 200)">
+        <rect width="31" height="31" x=".5" y=".5"/>
+        <rect width="31" height="31" x=".5" y="31.5"/>
+      </g>
+      <g stroke="#F84539" transform="translate(282 200)">
+        <rect width="31" height="31" x=".5" y=".5"/>
+        <rect width="31" height="31" x=".5" y="31.5"/>
+      </g>
+      <g stroke="#F84539" transform="translate(200 200)">
+        <rect width="31" height="31" x=".5" y=".5"/>
+        <rect width="31" height="31" x=".5" y="31.5"/>
+      </g>
+      <g stroke="#00BAFF" transform="translate(19 48)">
+        <rect width="31" height="31" x=".5" y=".5"/>
+        <rect width="31" height="31" x=".5" y="31.5"/>
+      </g>
+      <path stroke="#F84539" stroke-width="2" d="M216,283 L216,263"/>
+      <path stroke="#00BAFF" stroke-width="2" d="M35,131 L35,111"/>
+      <path stroke="#F84539" stroke-width="2" d="M298 283L298 263M379 283L379 263"/>
+      <path fill="#00BAFF" fill-rule="nonzero" d="M315.011649,-6.02324888 L329,1 L314.98839,7.9767318 L314.998,1.976 L208.567948,1.79997624 C188.027225,1.79997624 171.336788,18.2850067 171.005033,38.7466698 L171,39.3679245 L170.994708,40.024797 C170.645858,61.6600849 153.094776,79.142096 131.377692,79.3245925 L131.377692,79.3245925 L51.0084031,79.9999647 L50.9915969,78.0000353 L131.360885,77.3246631 C152.199361,77.1495499 169,60.207136 169,39.3679245 L169,39.3679245 L169.005301,38.7135962 C169.354717,17.1626181 186.933702,-0.200023758 208.567948,-0.200023758 L208.567948,-0.200023758 L315.001,-0.023 L315.011649,-6.02324888 Z"/>
+      <path fill="#00BAFF" fill-rule="nonzero" d="M156,72 L170,79 L156,86 L156,80 L132.632075,80 C113.149814,80 97.3194331,95.6355584 97.0047737,115.042834 L97,115.632075 L96.9949905,116.257108 C96.6647829,136.844145 80.0510884,153.525084 59.3891712,153.862952 L59.3891712,153.862952 L51.01635,153.999866 L50.98365,152.000134 L59.3564711,151.86322 C79.1354203,151.53979 95,135.413669 95,115.632075 L95,115.632075 L95.0050416,115.00976 C95.3373626,94.5131698 112.05629,78 132.632075,78 L132.632075,78 L156,78 L156,72 Z"/>
+      <path fill="#00BAFF" fill-rule="nonzero" d="M237.035175,72.9300884 L251,80 L236.965175,86.9299134 L236.995,80.93 L50.9950001,79.9999875 L51.0049999,78.0000125 L237.005,78.93 L237.035175,72.9300884 Z"/>
+    </g>
+    <path stroke="#BDC9D6" stroke-width="2" d="M1633,866 C1633,842.251756 1613.74824,823 1590,823 L1327,823 C1295.51977,823 1270,797.480231 1270,766 L1270,766 L1270,766"/>
+    <path stroke="#BDC9D6" stroke-width="2" d="M1631,866 C1631,861.029437 1626.97056,857 1622,857 L1026,857 C970.771525,857 926,812.228475 926,757 L926,614 L926,614"/>
+    <path stroke="#BDC9D6" stroke-width="2" d="M1552,866 C1552,849.983742 1539.01626,837 1523,837 L1260,837 C1220.78778,837 1189,805.212217 1189,766 L1189,766 L1189,766"/>
+    <path stroke="#BDC9D6" stroke-width="2" d="M1469,866 C1469,856.611159 1461.38884,849 1452,849 L1189,849 C1143.16037,849 1106,811.839634 1106,766 L1106,766 L1106,766"/>
+    <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="40" font-weight="600" letter-spacing="1.833" transform="translate(928 21)">
+      <tspan x="-126.11" y="171">Self-attention: </tspan>
+    </text>
+    <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600" letter-spacing="1.1" transform="translate(985 191)">
+      <tspan x="-85.024" y="109.5">sortie </tspan> <tspan x="-7.7" y="109.5" font-family="Gilroy-Light, Gilroy" font-weight="300">=</tspan> <tspan x="6.288" y="109.5"> Softmax</tspan>
+    </text>
+    <text fill="#253765" font-family="Gilroy-Light, Gilroy" font-size="48" font-weight="300" letter-spacing="2.2" transform="translate(1149 164)">
+      <tspan x="14.512" y="30.5">=</tspan>
+    </text>
+    <text fill="#253765" font-family="Gilroy-Light, Gilroy" font-size="40" font-weight="300" letter-spacing="1.833" transform="translate(1236 169)">
+      <tspan x="12.343" y="26">=</tspan>
+    </text>
+    <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="40" font-weight="600">
+      <tspan x="1123" y="194.8">V</tspan>
+    </text>
+    <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="40" font-weight="600">
+      <tspan x="1208" y="194.8">K</tspan>
+    </text>
+    <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="40" font-weight="600">
+      <tspan x="1287" y="194.8">Q</tspan>
+    </text>
+    <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600">
+      <tspan x="1154.472" y="277">QK</tspan>
+    </text>
+    <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600">
+      <tspan x="1235.08" y="306">V</tspan>
+    </text>
+    <g transform="translate(1133 285)">
+      <text fill="#253765" font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600">
+        <tspan x="34.524" y="34">d</tspan>
+      </text>
+      <text fill="#253765" font-family="Gilroy-Light, Gilroy" font-size="48" font-weight="300">
+        <tspan x="4.164" y="45">√</tspan>
+      </text>
+      <path stroke="#BDC9D6" stroke-linecap="round" d="M0.5,0.5 L72.5,0.5"/>
+      <text fill="#00BAFF" font-family="Gilroy-Light, Gilroy" font-size="16" font-weight="300">
+        <tspan x="53.136" y="43">k</tspan>
+      </text>
+    </g>
+    <text fill="#253765" font-family="Gilroy-Light, Gilroy" font-size="72" font-weight="300">
+      <tspan x="1113.104" y="320">(</tspan>
+    </text>
+    <text fill="#253765" font-family="Gilroy-Light, Gilroy" font-size="72" font-weight="300">
+      <tspan x="1213.104" y="320">)</tspan>
+    </text>
+    <text font-family="Gilroy-ExtraBold, Gilroy" font-size="24" font-weight="600">
+      <tspan x="255" y="1015" fill="#253765">Umaneo</tspan> <tspan x="348.096" y="1015" fill="#F299B3">.</tspan> <tspan x="354.816" y="1015" fill="#253765">com</tspan>
+    </text>
+  </g>
+</svg>

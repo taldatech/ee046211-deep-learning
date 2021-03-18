@@ -24,12 +24,20 @@ Jupyter Notebook tutorials for the Technion's EE 046211 course "Deep Learning"
 
 
 - [ee046211-deep-learning](#ee046211-deep-learning)
+  * [Agenda](#agenda)
   * [Running The Notebooks](#running-the-notebooks)
     + [Running Online](#running-online)
     + [Running Locally](#running-locally)
-  * [Agenda](#agenda)
   * [Installation Instructions](#installation-instructions)
     + [Libraries to Install](#libraries-to-install)
+
+
+## Agenda
+
+|File       | Topics Covered |
+|----------------|---------|
+|`Setting Up The Working Environment.pdf`| Guide for installing Anaconda locally with Python 3 and PyTorch, integration with PyCharm and using GPU on Google Colab |
+
 
 ## Running The Notebooks
 You can view the tutorials online or download and run locally.
@@ -64,14 +72,6 @@ Press "Download ZIP" under the green button `Clone or download` or use `git` to 
 following command: `git clone https://github.com/taldatech/ee046211-deep-learning.git` (in cmd/PowerShell in Windows or in the Terminal in Linux/Mac)
 
 Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Installation instructions can be found in `Setting Up The Working Environment.pdf`.
-
-
-
-## Agenda
-
-|File       | Topics Covered |
-|----------------|---------|
-|`Setting Up The Working Environment.pdf`| Guide for installing Anaconda locally with Python 3 and PyTorch, integration with PyCharm and using GPU on Google Colab |
 
 
 ## Installation Instructions

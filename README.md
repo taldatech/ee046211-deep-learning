@@ -100,8 +100,8 @@ In Windows open `Anaconda Prompt` from the start menu, in Mac/Linux open the ter
 |`tqdm`| `conda install -c conda-forge tqdm`|
 |`opencv`| `conda install -c conda-forge opencv`|
 |`optuna`| `pip install optuna`|
-|`pytorch` (cpu)| `conda install pytorch torchvision cpuonly -c pytorch` |
-|`pytorch` (gpu)| `conda install pytorch torchvision cudatoolkit=10.0 -c pytorch` |
+|`pytorch` (cpu)| `conda install pytorch torchvision torchaudio cpuonly -c pytorch` |
+|`pytorch` (gpu)| `conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch` |
 |`torchtext`| `conda install -c pytorch torchtext`|
 
 

@@ -40,6 +40,7 @@ Jupyter Notebook tutorials for the Technion's EE 046211 course "Deep Learning"
 |`ee046211_tutorial_01_machine_learning_recap.ipynb/pdf`| Supervised and Unsupervised Learning, Model Evaluation, Bias-Variance Tradeoff, Feature Scaling, Linear Regression, Gradient Descent, Regularization (Ridge, LASSO)|
 |`ee046211_tutorial_02_single_neuron_recap.ipynb/pdf`| Discriminative models, Perceptron, Logistic Regression (also in PyTorch), Softmax Regression, Activation functions|
 |`ee046211_tutorial_03_optimization_gradient_descent.ipynb/pdf`|Unimodal functions, Convexity, Hessain, Gradient Descent, SGD, Learning Rate, LR Scheculing / Annealing, Momentum, Nesterov Momentum, Adaptive Learning Rate Methods, Adagrad, RMSprop, Adam|
+|`ee046211_tutorial_04_differentiation_autograd.ipynb/pdf`|Lagrange Multipliers, Automatic Differentiation (AutoDiff) Forward Mode and Reverese Mode, PyTorch Autograd|
 
 
 ## Running The Notebooks

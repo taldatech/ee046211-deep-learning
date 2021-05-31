@@ -44,6 +44,7 @@ Jupyter Notebook tutorials for the Technion's EE 046211 course "Deep Learning"
 |`ee046211_tutorial_05_multilayer_nn.ipynb/pdf`|Multi-Layer Perceptron (MLP), Backpropagation, Neural Netwroks in PyTorch, Weights Initialization - Xavier (Glorot), Kaiming (He), Deep Double Descent|
 |`ee046211_tutorial_06_convnets_visual_tasks.ipynb/pdf`|2D Convolution (Cross-corelation), Convolution-based Classification, Convolutional Neural Networks (CNNs), Regularization and Overfitting, Dropout, Data Augmentation, CIFAR-10 dataset, Visualizing Filters, Applications of CNNs, The problems with CNNs (adversarial attacks, poor generalization, fairness-undesirable biases)|
 |`ee046211_tutorial_07_sequential_tasks_rnn.ipynb/pdf`|Sequential Tasks, Natural Language Processing (NLP), Langiage Model, Perplexity, BLEU,  Recurrent Neural Network (RNN), Backpropagation Through Time (BPTT), Long Term Short Memory (LSTM), Gated Recurrent Unit (GRU), (Self Multi-head) Attention, Transformer, BERT and GPT, Teacher Forcing, torchtext, Sentiment Analysis|
+|`ee046211_tutorial_08_training_methods.ipynb/pdf`|Feature Scaling, Normalization, Standardization, Batch Normalization, Layer Normalization, Instance Normalization, Group Normalization, Vanishing Gradients, Exploding Gradients, Skip-Connection, Residual Nlock, ResNet, DenseNet, U-Net, Hyper-parameter Tuning: Grid Search, Random Search, Bayesian Tuning, Optuna with PyTorch|
 
 
 ## Running The Notebooks

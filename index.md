@@ -1,4 +1,4 @@
-## Technion - EE - 046211 - Deep Learning 
+## 046211 - Deep Learning 
 
 You can use the [editor on GitHub](https://github.com/taldatech/ee046211-deep-learning/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

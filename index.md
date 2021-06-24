@@ -1,10 +1,20 @@
 ## 046211 - Deep Learning 
 
-You can use the [editor on GitHub](https://github.com/taldatech/ee046211-deep-learning/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1 align="center">
+  <br>
+Technion EE 046211 - Deep Learning
+  <br>
+  <img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nn_gumgum.gif" height="200">
+</h1>
+  <p align="center">
+    <a href="https://taldatech.github.io">Tal Daniel</a> •
+    <a href="https://github.com/royg27">Roy Ganz</a> •
+    <a href="https://sites.google.com/danielsoudry">Daniel Soudry</a>
+  </p>
 
 ### General Information
+
+The course is given in the Electrical and Computer Engineering Faculty at the Technion (EE 046211) and covers several topics in deep learning (DL), with emphasis on **supervised** approaches to DL. Please visit our <a href="https://github.com/taldatech/ee046211-deep-learning">GitHub</a> for the specific agenda and topics.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,10 +38,13 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Spring 2021 Projects
+### Spring 2021 Student Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taldatech/ee046211-deep-learning/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+|Project Title      | Students |TL;DR | GitHub|
+|----------------|---------| ---------| ---------|
+|Example Title| <a href="">Student 1</a> & <a href="">Student 2</a> | Best Project EVER!|| <a href="">GitHub Link</a>|
+
 
 ### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more information/questions, pleaes contact <a href="https://taldatech.github.io">Tal Daniel</a>.

@@ -42,7 +42,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 |Project Title      | Students |TL;DR | GitHub|
 |----------------|---------| ---------| ---------|
-|Example Title| <a href="">Student 1</a> & <a href="">Student 2</a> | Best Project EVER!|| <a href="">GitHub Link</a>|
+|Example Title| <a href="">Student 1</a> & <a href="">Student 2</a> | Best Project EVER!| <a href="">GitHub Link</a>|
 
 
 ### Contact

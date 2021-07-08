@@ -18,6 +18,10 @@ The course is given in the Electrical and Computer Engineering Faculty at the Te
 
 ### Spring 2021 Student Projects
 
+<img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-S21.png" height="250">
+
+
+
 |Project Title      | Students |TL;DR | GitHub/YouTube|
 |----------------|---------| ---------| ---------|
 |**Cassava Leaf Deasses Classification**| <a href="https://www.linkedin.com/in/idogabay/">Ido Gabay</a> & <a href="https://www.linkedin.com/in/aviya-cohen-540060211">Aviya Cohen</a> |Classification of imbalanced dataset from Kaggle with several methods, using transfer learning and our own conv-net.| <a href="https://github.com/idogabay1/Cassava-Leaf-Disease-Classification">GitHub Link</a><br><a href="https://youtu.be/yg20D6vt6BA">YouTube Link</a>|

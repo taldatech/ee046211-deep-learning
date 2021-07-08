@@ -18,7 +18,9 @@ The course is given in the Electrical and Computer Engineering Faculty at the Te
 
 ### Spring 2021 Student Projects
 
-<img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-S21.png" height="250">
+<center>
+<img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-S21.png" height="300">
+</center>
 
 
 

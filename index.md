@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/ece_logo.png" height="100">
+<img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/ece_logo.png" height="50">
+
+
 ## 046211 - Deep Learning 
 
 <h1 align="center">

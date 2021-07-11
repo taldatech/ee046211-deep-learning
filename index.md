@@ -15,7 +15,7 @@
 
 ### General Information
 
-The course is given in the Electrical and Computer Engineering Faculty at the Technion (EE 046211) and covers several topics in deep learning (DL), with emphasis on **supervised** approaches to DL. Please visit our <a href="https://github.com/taldatech/ee046211-deep-learning">GitHub</a> for the specific agenda and topics.
+The course is given in the Electrical and Computer Engineering Faculty at the Technion (ECE 046211) and covers several topics in deep learning (DL), with emphasis on **supervised** approaches to DL. Please visit our <a href="https://github.com/taldatech/ee046211-deep-learning">GitHub</a> for the specific agenda and topics.
 
 
 

@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-Technion EE 046211 - Deep Learning
+Technion ECE 046211 - Deep Learning
   <br>
   <img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nn_gumgum.gif" height="200">
 </h1>
@@ -11,7 +11,7 @@ Technion EE 046211 - Deep Learning
     <a href="https://sites.google.com/danielsoudry">Daniel Soudry</a>
   </p>
 
-Jupyter Notebook tutorials for the Technion's EE 046211 course "Deep Learning"
+Jupyter Notebook tutorials for the Technion's ECE 046211 course "Deep Learning"
 * Animation by <a href="https://medium.com/@gumgumadvertisingblog">GumGum</a>.
 
 <h4 align="center">

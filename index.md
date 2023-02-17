@@ -9,13 +9,41 @@
 </h1>
   <p align="center">
     <a href="https://taldatech.github.io">Tal Daniel</a> •
-    <a href="https://github.com/royg27">Roy Ganz</a> •
     <a href="https://sites.google.com/danielsoudry">Daniel Soudry</a>
   </p>
 
 ### General Information
 
 The course is given in the Electrical and Computer Engineering Faculty at the Technion (ECE 046211) and covers several topics in deep learning (DL), with emphasis on **supervised** approaches to DL. Please visit our <a href="https://github.com/taldatech/ee046211-deep-learning">GitHub</a> for the specific agenda and topics.
+
+### Winter 2023 Student Projects
+
+<p align="center">
+<a href="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-W23.png"><img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-W23.png" height="300"></a>
+</p>
+
+
+
+|Project Title      | Students |TL;DR | GitHub/YouTube|
+|----------------|---------| ---------| ---------|
+|**ViT-BYOL**| <a href="https://www.linkedin.com/in/shahar-yadin-069725195/">Shahar Yadin</a> & <a href="https://www.linkedin.com/in/noa-shoham-9a80041b5/">Noa Shoham</a> |Easily training a classifier with robustness to noise, without the need for explicitly showing it noisy images during training.| <a href="https://github.com/shaharYadin/ViT-BYOL">GitHub Link</a><br><a href="https://www.youtube.com/watch?v=P-7INrj50p4">YouTube Link</a>|
+|**Adversarial Attacks on Face Recognition Models**| <a href="https://www.linkedin.com/in/shelly-francis-85bb2b217/">Shelly Francis</a> & <a href="https://www.linkedin.com/in/gil-kapel-a960b720a/">Gil Kapel</a> |Defencing Adversarial Attacks on Face Recognition Models.| <a href="https://github.com/shellyfra/Defend_against_attribute_attacks_in_face_recognition_models">GitHub Link</a><br><a href="https://www.youtube.com/watch?v=vIdjiqZTf78">YouTube Link</a>|
+|**Audio-based Instrument Detection**| <a href="https://www.linkedin.com/in/roy-steinberg-2b91a0211/">Roy Steinberg</a> & <a href="https://www.linkedin.com/in/rotem-elimelech-8b4b00145/">Rotem Elimelech</a> | With careful pre-processing and choice of loss functions, we predict multiple instruments in a musical piece.| <a href="https://github.com/rotelimelech/DeepLearningProject">GitHub Link</a><br><a href="https://www.youtube.com/watch?v=rbovcknI7NE">YouTube Link</a>|
+|**TransferMPL with Roleplaying**| <a href="https://www.linkedin.com/in/shira-lifshitz-313328248/">Shira Lifshitz</a> & <a href="https://www.linkedin.com/in/saar-stern-a43413246/">Saar Stern</a> | We propose a "RolePlaying" mechanism and improve the "Meta pseudo Labels" method.| <a href="https://github.com/saarst/TransferMPL">GitHub Link</a><br><a href="https://www.youtube.com/watch?v=2zlSx6lFJxA">YouTube Link</a>|
+|**Diffusion-based Data Augmentations**| <a href="https://www.linkedin.com/in/eran-avneri-99689621a/">Eran Avneri</a> & Itay Lamprecht | We show that using generative data augmentations with diffusion models improve the performence of CNN models.| <a href="https://github.com/itlamp/Aug-Diff">GitHub Link</a><br><a href="https://www.youtube.com/watch?v=5ECgX8T8LTg">YouTube Link</a>|
+|**Black and White Image Colorization**| <a href="https://www.linkedin.com/in/aviv-ish-shalom-90b644239">Aviv Ish Shalom</a> & <a href="linkedin.com/in/salomon-malka-aaa42b201">Salomon Malka</a> |We use a UNet architecture and test various loss functions for colorizing grayscale images.| <a href="https://github.com/SalomonMalka/Black-and-white-image-colorization">GitHub Link</a><br><a href="https://youtube.com/watch?v=kgDaKjT3Kwg">YouTube Link</a>|
+|**CLIP Your Food**| <a href="https://www.linkedin.com/in/betty-khaimov-027b4016a/">Elizabet Khaimov</a> & <a href="https://www.linkedin.com/in/ori-zehngut-633344213/">Ori Zehngut</a> | We extract list of ingredients from a given input dish image using CLIP features.| <a href="https://github.com/KhaBetty/CLIPyourFood/">GitHub Link</a><br><a href="https://youtu.be/7IgiPZ92G1Q">YouTube Link</a>|
+|**Limited-data Face Classification using Transfer Learning**| <a href="https://github.com/AmitKadosh1">Amit Kadosh</a> & <a href="https://github.com/batelshuminov/">Batel Shuminov</a> | Using a limited collection of face images we improve face recognition with transfer learning.| <a href="https://github.com/batelshuminov/Build-New-Dataset-And-Classify-Faces-By-Using-Transfer-Learning.git">GitHub Link</a><br><a href="https://www.youtube.com/watch?v=kuYXh3wELr0">YouTube Link</a>|
+|**Weights Pruning of Resnet50 Model**| <a href="https://www.linkedin.com/in/michael-berko-b17788247/">Michael Berko</a> & <a href="https://www.linkedin.com/in/naomi-silverstein-9b39761b5/">Naomi Shapiro</a>| We've managed to reducre nearly 40% of model's parameters without changing its accuracy.| <a href="https://github.com/MichaelB0312/Weights-Pruning">GitHub Link</a><br><a href="https://www.youtube.com/watch?v=z242KMakiyg">YouTube Link</a>|
+|**Contrastive-center Loss for Speaker Recognition**| <a href="https://www.linkedin.com/in/lior-bashari-b6727322a/">Lior Bashari</a> & <a href="https://www.linkedin.com/in/yonatan-kleerekoper-1a83a1212/">Yonatan Kleerekoper</a>| Examining the effect of Contrastive-center loss regularization on Speaker Recognition using transfer learning with ResNet-18.| <a href="https://github.com/liorbash/046211-SpeakerRecognition">GitHub Link</a><br><a href="https://youtu.be/-o09HtGNV0Q">YouTube Link</a>|
+|**Football Player Detection**| <a href="https://www.linkedin.com/in/avishav-engle-4a8316112/">Avishav Engle</a> & Daniel Hassid | Fine-tuned YOLOv7 NN to localize and classify footballer players and trained a BYOL network to cluster the teams.| <a href="https://github.com/Avishav-Engle/FootballPlayerDetection">GitHub Link</a>|
+|**RNN and Transformer-based Image Captioning**| Itai Shufaro & Nir Luria | We implemented an encoder-decoder network for image captioning. The encoder is a pre-trained CNN, and for the decoder we used both LSTM and Transformer networks.| <a href="https://github.com/itaishufaro/Encoder-Decoder-Image-Captioning">GitHub Link</a><br><a href="https://youtu.be/HsJHZepSWHU">YouTube Link</a>|
+|**Generating Captions for Visual Stimuli from fMRI Scans**| <a href="http://www.linkedin.com/in/yoav-tsoran-7896ab231">Yoav Tsoran</a> & <a href="https://www.linkedin.com/in/roeysh/">Roey Shafran</a> | We use a pretained fMRI encoder and GPT2 to generate a caption of the image presented to a subject during an fMRI scan.| <a href="https://github.com/roeyshafran/BrainCap">GitHub Link</a>><br><a href="https://youtu.be/0fzlkpIgb_U">YouTube Link</a>|
+|**IMDB Score Prediction from a Movie’s Trailer**| <a href="https://github.com/EranMann1">Eran Mann</a> & <a href="https://github.com/Zeevzu">Zeev Zukerman</a>|Predicting IMDB score from selected frames from the movie’s trailer.| <a href="https://github.com/Zeevzu/IMDB_score_predictor-.git">GitHub Link</a><br><a href="https://youtu.be/5nPWn_0eayY">YouTube Link</a>|
+|**ECG Classification with CNNs**| Sagie Badoach & <a href="https://www.linkedin.com/in/gilad-altshuler-10/">Gilad Altshuler</a>|We classify ECG heartbeat to different disease classes, with simpler yet accurate (+98%) CNN model, and adapted the model to 2 tasks.| <a href="https://github.com/gilad-altshuler/ECG-classification">GitHub Link</a><br><a href="https://youtu.be/YMTVrTvmoH8">YouTube Link</a>|
+|**Image Caption Generator**| <a href="https://www.linkedin.com/in/dana-rip-8724b3127/">Dana Rip</a>|We compared two architectures for image captioning: LSTM and Transformer.| <a href="https://github.com/danarip/ImageCaptionGenerator">GitHub Link</a><br><a href="https://youtu.be/1CPxXyjc5qQ">YouTube Link</a>|
+|**Boosting Classification with Estimated Depth**| Mousa Arraf & Chen Katz|We boosted the results of classification models by using estimated depth as additional features.| <a href="https://github.com/arrafmousa/Deep_final_project">GitHub Link</a>|
+|**Augmenting Textual Datasets with GPT**| Almog Zur & Ari Granevich|We used GPT2 to augment the IMDB dataset.| <a href="https://github.com/pbehhe/GPT2Augmentation">GitHub Link</a>|
 
 
 ### Winter 2022 Student Projects

@@ -20,7 +20,7 @@ The course is given in the Electrical and Computer Engineering Faculty at the Te
 
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-S23.png"><img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-S21.png" height="300"></a>
+<a href="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-S23.png"><img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-S23.png" height="300"></a>
 </p>
 
 

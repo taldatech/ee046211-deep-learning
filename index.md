@@ -16,12 +16,52 @@
 
 The course is given in the Electrical and Computer Engineering Faculty at the Technion (ECE 046211) and covers several topics in deep learning (DL), with emphasis on **supervised** approaches to DL. Please visit our <a href="https://github.com/taldatech/ee046211-deep-learning">GitHub</a> for the specific agenda and topics.
 
+### Spring 2023 Student Projects
+
+
+<p align="center">
+<a href="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-S23.png"><img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-S21.png" height="300"></a>
+</p>
+
+
+| Project Title | Students | TL;DR | GitHub/YouTube |
+|---------------|----------|-------|----------------|
+| **Cartoonify- Cartonn Augmentation** | [Stav Lotan](https://www.linkedin.com/in/stav-lotan-b06133219/) & [Harel Mendelman](https://www.linkedin.com/in/harel-mendelman-32b7961b6/) | Testing the efficacy of "Cartoon Augmentations" for image classification | [GitHub Link](https://github.com/harel147/Cartoonify-CartoonGAN-Augmentations-for-Image-Classification) <br> [YouTube Link](https://youtu.be/gwctQF_qpRo) |
+| **MemeSense** | [Tomer Keniagin](https://www.linkedin.com/in/tomer-keniagin-737680232/) & [Aviv Shem-Tov](https://www.linkedin.com/in/aviv-st/) | Identifying hateful content in memes using combined text and image analysis | [GitHub Link](https://github.com/staviv/MemeSense) |
+| **Music Genre Classifier** | [Amit Karp](http://www.linkedin.com/in/amit-karp-27b272156) & [Ilay Yavlovich](http://www.linkedin.com/in/ilay-yavlovich) | Classifying songs into their respective genres using advanced models | [GitHub Link](https://github.com/IlayYavlovich/046211-MusicGenreClassifier.git) <br> [YouTube Link](https://www.youtube.com/watch?v=rKKQt7A78dU&ab_channel=IlayYavlovich) |
+| **MRI Brain Tumor Patch-Based Classification** | [Nitzan Alt](https://www.linkedin.com/in/nitzan-alt-520767234/) & [Or Ronai](https://www.linkedin.com/in/orronai/) | Detecting brain tumor types using MRI scans and transfer learning | [GitHub Link](https://github.com/orronai/MRIBTCPB) <br> [YouTube Link](https://youtu.be/rDG_Cbd_6bs) |
+| **How I Feel** | [Itamar Nierenberg](https://www.linkedin.com/in/itamar-nierenberg-1406261b9/) & [Nir Elfasi](https://www.linkedin.com/in/nir-elfasi-a6a65a281/) | Recognizing human emotions from facial expressions in images | [GitHub Link](https://github.com/Itamarnierenberg/HowIFeel/) <br> [YouTube Link](https://youtu.be/_9gRjvQALM0) |
+| **RWKV-Based Music Generator** | [Ariel Suller](https://www.linkedin.com/in/ariel-suller-23300214b/) & [Liad Perl](https://www.linkedin.com/in/liad-perl-a925551b7/) | Modifying LSTM-based music generation with an RWKV model | [GitHub Link](https://github.com/Sullerito/RWKV-MusicGenerator) <br> [YouTube Link](https://youtu.be/VyaKqiRKuHM) |
+| **Uncertainty Score for Medical Segmentation Models** | [Daniel Katz](https://www.linkedin.com/in/danielkatz10/) & [Natalie Mendelson](https://www.linkedin.com/in/natalie-mendelson-b59646234/) | Evaluating segmentation model performance with uncertainty scores | [GitHub Link](https://github.com/KanielDatz/UnnUNet) <br> [YouTube Link](https://youtu.be/_wcqZOEGk_0) |
+| **ASL Translation from Images to Letters** | [Hadar Shloosh](https://www.linkedin.com/in/hadar-shloosh) | Translating American Sign Language (ASL) images into English letters | [GitHub Link](https://github.com/hadarshloosh/DL-project) |
+| **FeelMyText : Emotion Classifier From Text Using Data Augmentations** | [Yossi Meshulam](https://www.linkedin.com/in/yossi-meshulam-90ab3517a/) & [Eran Yermiyahu](http://www.linkedin.com/in/eran-yermiyahu/) | Classifying emotions within raw textual content with augmented data | [GitHub Link](https://github.com/EranYermiyahu/FeelMyText) <br> [YouTube Link](https://youtu.be/ePDFk_Pc8A4) |
+| **Stock Price Prediction Using RWKV** | [Roee Latzres](https://www.linkedin.com/in/roee-latzres/) & [Tomer Krichli](https://www.linkedin.com/in/tomer-krichli/) | Forecasting stock prices using RWKV and numerical prediction | [GitHub Link](https://github.com/tomer9080/Stock-Prediction-Using-RWKV/tree/main) |
+| **AI-based Position Estimation** | [Avichay Ashur](https://www.linkedin.com/in/avichay-ashur/) & [Itay Geva](https://www.linkedin.com/in/itay-geva-a50766257/) | Predicting device location based on radio frequency data | [GitHub Link](https://github.com/avichayyy/-AI-based-position-estimation) <br> [YouTube Link (HEB)](https://youtu.be/HaesqisahP0) <br> [YouTube Link (ENG)](https://youtu.be/BOz98qEMz3A) |
+| **Facial Attribute Classification for Personalized Emoji Generation** | [Eitan Gorbonos](https://www.linkedin.com/in/eitan-gorbonos/) & [Amiel Gorbonos](https://www.linkedin.com/in/ami-gorbonos/) | Creating personalized emojis based on facial attributes | [GitHub Link](https://github.com/amigo451/Facial-Attribute-Classification-for-Personalized-Emoji-Generation) |
+| **Music Genre Classification using Wav2Vec2** | [Itai Allouche](https://www.linkedin.com/in/itai-allouche/) & [Adam Katav](https://www.linkedin.com/in/adam-katav/) | Improving music genre classification with sound data representation | [GitHub Link](https://github.com/ItaiAllouche/MusicGenreClassification/) |
+| **ASLetter – Generating ASL Images From Letters** | [Nir Ben Haim](https://www.linkedin.com/in/nir-ben-haim/) & [David Levit](https://www.linkedin.com/in/david-levit-47713b154/) | Generating ASL images from English letters | [GitHub Link](https://github.com/nirbenhaim/ASLetter---Generating-ASL-Images-From-Letters) |
+| **Climbing Holds Classification** | [Ori Levi](https://www.linkedin.com/in/ori-levi-/) & [Or Pomeranz](https://www.linkedin.com/in/or-pomeranz-27a039202/) | Accurate classification and segmentation of climbing holds | [GitHub Link](https://github.com/orilevi2809/Climbing-Holds-Classification) <br> [YouTube Link](https://www.youtube.com/watch?v=CRshZoCNsFY) |
+| **Enhancing Dense Crowd Counting CNNs** | [Rebecca Azoulay](https://www.linkedin.com/in/rebecca-azoulay/) & [Chris Shakkour](https://www.linkedin.com/in/chris-shakkour
+/) | Improving the accuracy of crowd counting CNNs | [GitHub Link](https://github.com/ChrisShakkour/Enhancing-Crowd-Counting-mcnn-model) <br> [YouTube Link](https://www.youtube.com/watch?v=Y4a9g0yEmwg&feature=youtu.be&ab_channel=chrisshakkour) |
+| **Super Mario Play** | [Amir Mishael](https://www.linkedin.com/in/amir-mishael/) & [Lavi Doron](https://www.linkedin.com/in/lavi-doron/) | Learn Super Mario Bros gameplay and predict next key press | [GitHub Link](https://github.com/AmirMishael/Mario_IDM_DL) |
+| **Self-Learner - STL10 classification using BYOL representation** | [Tamar Sde Chen](https://www.linkedin.com/in/tamar-sde-chen) & [Hadar Rosenber](https://www.linkedin.com/in/hadarrosenberg) | Demonstrating an 11% improvement in supervised learning classification accuracy by leveraging self-supervised learning | [GitHub Link](https://github.com/TamarSdeChen/Self-Learner-DeepLearning-Course-Technion/tree/main) <br> [YouTube Link](https://www.youtube.com/watch?v=GsXL6r-sRXo) |
+| **Image2Recipe: Deep Learning Network for Image-to-Recipe Translation** | [Sagi Eyal](https://www.linkedin.com/in/sagi-eyal-8935b5131/) & [Loren Tzveniashvily](https://www.linkedin.com/in/loren-tzveniashvily-281a58187/) | Outputting recipes from food images using Deep Learning | [GitHub Link](https://github.com/loren281/image2recipe) |
+| **Efficient Use of Visual Transformers** | [Matan Millionschik](https://www.linkedin.com/in/matan-millionschik-2794a0203/) & [Yael Zak](https://www.linkedin.com/in/yael-zak-568b401ba/) | Enhancing visual transformers with quantization and early exit | [GitHub Link](https://github.com/matanmill/Efficient-use-of-visual-transformers/tree/main) |
+| **Prism Diffusion** | [Ron Raphaeli](https://www.linkedin.com/in/ron-raphaeli-010617207/) & [Sofiia Kurbatova](https://www.linkedin.com/in/sofia-kurbatova-88a9b3207/) | Controlling colors in diffusion-generated images using conditional LoRA | [GitHub Link](https://github.com/ronraphaeli/Prism-diffusion/tree/main) |
+| **FSLC - Fingerspelling Sign Language Classification** | [Samer Khair](https://www.linkedin.com/in/samer-khair-18b892206/) & [Alam Shomary](https://www.linkedin.com/in/alam-shomary-216895214/) | Classifying fingerspelling sign language using CNNs | [GitHub Link](https://github.com/samerkhair/FSLClassification) <br> [YouTube Link](https://www.youtube.com/watch?v=LSdmXyExC1Q) |
+| **Human Activity Recognition using Accelerometers data** | [Yair Stolero](https://www.linkedin.com/in/yair-stolero/) & [Shlomi Buhadana](https://www.linkedin.com/in/shlomi-buhadana-97159217b/) | Comparing models for Human Activity Recognition from accelerometer data | [GitHub Link](https://github.com/Yair192/Human-activity-recognition-using-accelerometer-data) |
+| **Style is All You Need** | [Evgeniy Pukhov](https://www.linkedin.com/in/evgeniy-pukhov/) & [Dolev Hagai](https://www.linkedin.com/in/dolev-hagai-434b13187/) | Image style transfer using CNNs and optimization techniques | [GitHub Link](https://github.com/EvgeniyJP/SIAYN) <br> [YouTube Link](https://youtu.be/V8wZ5HbKxQ8) |
+| **BrainSight: Leveraging Vision Transformers for Tumor Detection** | [Gil Litvin](https://www.linkedin.com/in/gil-litvin-49442643/), [Ari Shemesh](https://www.linkedin.com/in/ari-shemesh-268249203/) & [Omer Paz](https://www.linkedin.com/in/omer-paz-63b03120a/) | Achieving 99.61% accuracy in brain tumor classification using Vision Transformers | [GitHub Link](https://github.com/litvingil/BrainSight-Leveraging-Vision-Transformers-for-Tumor-Detection/tree/main) |
+| **Book Review Score Predictor** | [David Cojocaru](https://www.linkedin.com/in/david-cojocaru-313b6a177/) & [Ori Hagler](https://www.linkedin.com/in/ori-hagler-511670207/) | Predicting book review scores using NLP | [GitHub Link](https://github.com/David-Cojocaru/Deep-Learning-Project) <br> [YouTube Link](https://www.youtube.com/watch?v=cDb65W8MpL0&list=LLn-oRxV8X_l2-X1gNmRSgqw&index=3&ab_channel=DaCo) |
+| **Image Captioning with LSTM&GRU** | [Meir Lederman](https://www.linkedin.com/in/meir-lederman/) & [Shahar Alpert](https://www.linkedin.com/in/shahar-alpert-012b621b3/) | Captioning images using Encoder-Decoder with LSTM and GRU | [GitHub Link](https://github.com/Shaharalpert123/Image-Captioning/tree/main) |
+| **Human or GPT: 2023 Turing Test** | [Noam Kasten](https://www.linkedin.com/in/noamkasten/) & [Muhammed Abu el Hija](https://www.linkedin.com/in/muhammed-abuelhija-a7b253240) | Classifying text as human-authored or generated by GPT | [GitHub Link](https://github.com/noamkasten/HumanOrGPT) <br> [YouTube Link](https://www.youtube.com/watch?v=OB_ju7WZSYw) |
+
+
 ### Winter 2023 Student Projects
 
 <p align="center">
 <a href="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-W23.png"><img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-W23.png" height="300"></a>
 </p>
-
 
 
 |Project Title      | Students |TL;DR | GitHub/YouTube|
@@ -53,7 +93,6 @@ The course is given in the Electrical and Computer Engineering Faculty at the Te
 </p>
 
 
-
 |Project Title      | Students |TL;DR | GitHub/YouTube|
 |----------------|---------| ---------| ---------|
 |**Adaptive STFT**| <a href="https://www.linkedin.com/in/noamelata/">Noam Elata</a> & <a href="https://www.linkedin.com/in/rotem-idelson/">Rotem Idelson</a> |Expanding on existing application of image processing networks to audio using STFT, we propose an adaptive STFT layer that learns the best DFT kernel and window for the application.| <a href="https://github.com/Rotem-and-Noam/Ada-STFT">GitHub Link</a><br><a href="https://www.youtube.com/watch?v=RFMKgkZgY-Q">YouTube Link</a>|
@@ -73,11 +112,6 @@ The course is given in the Electrical and Computer Engineering Faculty at the Te
 
 
 ### Spring 2021 Student Projects
-
-<p align="center">
-<a href="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-S21.png"><img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-S21.png" height="300"></a>
-</p>
-
 
 
 |Project Title      | Students |TL;DR | GitHub/YouTube|

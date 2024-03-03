@@ -50,7 +50,7 @@ Jupyter Notebook tutorials for the Technion's ECE 046211 course "Deep Learning"
 |`ee046211_tutorial_08_training_methods.ipynb/pdf`|Feature Scaling, Normalization, Standardization, Batch Normalization, Layer Normalization, Instance Normalization, Group Normalization, Vanishing Gradients, Exploding Gradients, Skip-Connection, Residual Nlock, ResNet, DenseNet, U-Net, Hyper-parameter Tuning: Grid Search, Random Search, Bayesian Tuning, Optuna with PyTorch|
 |`ee046211_tutorial_09_self_supervised_representation_learning.ipynb/pdf`|Transfer Learning, Domain Adaptation, Pre-trained Networks, Sim2Real, BERT, Representation Learning, Self-Supervised Learning, Autoencoders, Contrastive Learning, Contrastive Predictive Coding (CPC), Simple Framework for Contrastive Learning of Visual Representations (SimCLR), Momentum Contrast (MoCo), Bootstrap Your Own Latent (BYOL)|
 |`ee046211_tutorial_10_compression_pruning_amp.ipynb/pdf`|Resource Efficiency in DL, Automatic Mixed Precision (AMP), Quantization (Dynamic, Static), Quantization Aware Training (QAT), Pruning, The Lottery Ticket Hypothesis|
-|`pytorch_maximize_cpu_gpu_utilization.ipynb/pdf`|Tips and Tricks for efficient coding in PyTorch, maximizing the CPU and GPU utilization|
+|`pytorch_maximize_cpu_gpu_utilization.ipynb/pdf`|Tips and Tricks for efficient coding in PyTorch, maximizing the CPU and GPU utilization, `nvidia-smi`, PyTorch Profiler, AMP, HF Accelerate, RL libaries|
 
 
 ## Running The Notebooks

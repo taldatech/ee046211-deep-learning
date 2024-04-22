@@ -4,7 +4,7 @@
   <br>
 Technion ECE 046211 - Deep Learning
   <br>
-  <img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nn_gumgum.gif" height="200">
+  <img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/dl_intro_anim.gif" height="200">
 </h1>
   <p align="center">
     <a href="https://taldatech.github.io">Tal Daniel</a> •
@@ -12,7 +12,6 @@ Technion ECE 046211 - Deep Learning
   </p>
 
 Jupyter Notebook tutorials for the Technion's ECE 046211 course "Deep Learning"
-* Animation by <a href="https://medium.com/@gumgumadvertisingblog">GumGum</a>.
 
 <h4 align="center">
     <a href="https://colab.research.google.com/github/taldatech/ee046211-deep-learning"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>

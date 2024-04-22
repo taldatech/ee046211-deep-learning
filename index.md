@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nn_gumgum.gif" height="200">
+  <img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/dl_intro_anim.gif" height="200">
 </h1>
   <p align="center">
     <a href="https://taldatech.github.io">Tal Daniel</a> •
@@ -16,12 +16,35 @@
 
 The course is given in the Electrical and Computer Engineering Faculty at the Technion (ECE 046211) and covers several topics in deep learning (DL), with emphasis on **supervised** approaches to DL. Please visit our <a href="https://github.com/taldatech/ee046211-deep-learning">GitHub</a> for the specific agenda and topics.
 
-### Spring 2023 Student Projects
-
-
 <p align="center">
-<a href="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-S23.png"><img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-S23.png" height="300"></a>
+<a href="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/ideogram_sign_06.png"><img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/ideogram_sign_06.png" height="300"></a>
 </p>
+
+### Winter 2024 Student Projects
+
+
+| Project Title | Students | TL;DR | GitHub/YouTube |
+|---------------|----------|-------|----------------|
+| **Model Compression and LoRA** | [Ido Blayberg](https://www.linkedin.com/in/ido-blayberg/) & [Ohad Amsalem](https://www.linkedin.com/in/oamsalemd/) | We tested the effectiveness of adding LoRA layer to a pre-trained compressed model for image classification task | [GitHub Link](https://github.com/oamsalemd/046211-LoRA-Compression) <br> [YouTube Link](https://www.youtube.com/watch?v=gvKiksnZplI) |
+| **Suicidal Prediction Transformer** | Uri Koren & [Daniel Ochana](https://www.linkedin.com/in/daniel-ochana/) | Predicting the need for suicide watch based on text, using transfomers (from scratch, GPT2, ChatGPT) | [GitHub Link](https://github.com/DanielOchana/Suicidal-Prediction-Transformer) <br> [YouTube Link](https://youtu.be/YIyJAnWMfKE) |
+| **Facial Emotion Detection Using GAN-generated Emotion Augmentations** | [Reuven Smbatyan](https://www.linkedin.com/in/reuven-smbatyan-08501322a/) & Amit Shalev| Leveraging EmotionGAN to enhance training process by creating emotion augmentations and expanding/balancing our dataset | [GitHub Link](https://github.com/reuvensm/Emotion-Detection-Using-EmotionGAN) |
+| **Song Sentiment Analysis** | Zohar Milman & Dor Aviv | Fine-tuning of BERT model for the purposes of song lyrics sentiment analysis using LoRA and hyper-parameter sweep | [GitHub Link](https://github.com/doraviv02/Song_SentimentAnalysis) <br> [YouTube Link](https://youtu.be/E05KV7iCUlo) |
+| **Predicting A Song's Popularity Using Mamba** | Itamar Horowitz & Rebecca Azoulay| Implementing a Mamba architecture in order to predict the popularity of a song | [GitHub Link](https://github.com/Itamar-Horowitz/Predicting-A-Song-s-Popularity-Using-Mamba.git) <br> [YouTube Link](https://youtu.be/d8VXnhX3pAo?si=L_BIz5biw9NPi-t4) |
+| **DSP in Deep Learning – Morse Code Detector + Decoder** | [Maor Assayag](https://www.linkedin.com/in/maorassayag/) & [Eliraz Kadosh](https://www.linkedin.com/in/eliraz-kadosh/) & [Eliram Amrusi](https://www.linkedin.com/in/eliram-amrusi-11b949258/) | We show that LSTM-RNN decodes Morse code at -5dB SNR with 2% CER, and Faster-RCNN (RESNET) achieves 98% IoU-x accuracy for Morse code detection | [GitHub Link](https://github.com/MaorAssayag/morse-deep-learning-detect-and-decode/tree/main) <br> [YouTube Link](https://www.youtube.com/watch?v=uDLtp_Y9Fo4) |
+| **Earthquake Prediction** | Tzvi Tal Noy & Daniel Levi| Forecasting seismic activity, aiding in disaster management and mitigation efforts using RWKV | [GitHub Link](https://github.com/DanielLevi6/046211-Deep-Learning) |
+| **Age Estimation from Chest X-ray** | Iggy Segev Gal & Eyal Gilron| Experimenting with different transfer learning methods to estimate the age of a person from his chest Xray image| [GitHub Link](https://github.com/IggySegevGal/What-is-my-age.git) |
+| **Sherleaf-Holmes - Plant Species and Disease Type Classifier** | Lee Benyamin & Ben Segal | Exploring different typs of architectures using transfer learning on image classification task - VGG, Alexnet, Resnet, Densenet, ViT + Lora & Dora | [GitHub Link](https://github.com/LeeBenyamin/Sherleaf-Holmes-project) <br> [YouTube Link](https://www.youtube.com/watch?v=lSWoE4roERo) |
+| **GPT2-based sEMG Gesture Classifier** | [Yuval Gerzon](https://www.linkedin.com/in/yuval-gerzon-7040821a4/) & [Stav Belyy](https://www.linkedin.com/in/stav-belyy-a274621a6/) | Transfer learning to classify EMG movement, overcoming small amount of labeled data, by training a GPT2 transformer-decoder model| [GitHub Link](https://github.com/stavb2009/GPT2-sEMG-gesture-classifier) |
+| **Music Genre Classification with Transformers** | Yuval Hoffman & Roee Hadar| Using Transformers to classify music generes | [GitHub Link](https://github.com/YuvalHoffman/Music-Genre-Classification-using-Transformers) <br> [YouTube Link](https://youtu.be/cD5dvcjTKcI) |
+| **ViT vs. CNN for Elephants Classification** | [Ariel Lulinsky](https://www.linkedin.com/in/ariel-lulinsky-b660281b5/) & [Hadar Hai](https://hadar-hai.github.io/) | Evaluating Convolutional Neural Networks (CNN) and Vision Transformers (ViT) for distinguishing between Asian elephants and African elephants| [GitHub Link](https://github.com/hadar-hai/vit-vs-cnn-on-elephants) <br> [YouTube Link](https://youtu.be/OS2zNugIzk8)|
+| **Learning to Play 20 Questions** | Yotam Norman & Shir Rotman| Leveraging pre-existing LLM capabilities for training a chatbot to play 20 questions| [GitHub Link](https://github.com/shirotman/DL20Questions) |
+| **This Image Does Not Exist... Or Is It?** | Almog Anschel & Ran Elbaz| Using ViTs and Transfer Learning to evaluate if an image is generate by AI or not| [GitHub Link](https://github.com/anschelalmog/fake-image-classfier)|
+| **Basketball Action Recognition** | [Tal Dugma](http://www.linkedin.com/in/tal-dugma-ab19ba25a) &  Yonatan Ashlag &  Yarin Bekor | Real-time recognition of basketball players and their actions on court| [GitHub Link](https://github.com/TalDugma/Basketball-Action-Recognition) <br> [YouTube Link](https://youtu.be/Bv7OPoVjZb4) |
+| **Chaotic Time-Series Prediction using RNNs** | [Shaked Leslau](https://www.linkedin.com/in/shaked-leslau/) & [Rishona Daniels](https://www.linkedin.com/in/rishona-daniels/) | Lorenz '63 chaotic time-series prediction using LSTM, GRU, Tranformers, and Reservor computing | [GitHub Link](https://github.com/sLeslau/Time-Series-Prediction-using-RNNs) <br> [YouTube Link](https://youtu.be/NFml4L5OzfQ) |
+
+
+
+### Spring 2023 Student Projects
 
 
 | Project Title | Students | TL;DR | GitHub/YouTube |
@@ -58,10 +81,6 @@ The course is given in the Electrical and Computer Engineering Faculty at the Te
 
 ### Winter 2023 Student Projects
 
-<p align="center">
-<a href="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-W23.png"><img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-W23.png" height="300"></a>
-</p>
-
 
 |Project Title      | Students |TL;DR | GitHub/YouTube|
 |----------------|---------| ---------| ---------|
@@ -86,10 +105,6 @@ The course is given in the Electrical and Computer Engineering Faculty at the Te
 
 
 ### Winter 2022 Student Projects
-
-<p align="center">
-<a href="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-W22.png"><img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/DL-W22.png" height="300"></a>
-</p>
 
 
 |Project Title      | Students |TL;DR | GitHub/YouTube|

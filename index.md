@@ -20,6 +20,39 @@ The course is given in the Electrical and Computer Engineering Faculty at the Te
 <a href="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/ideogram_sign_06.png"><img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/ideogram_sign_06.png" height="300"></a>
 </p>
 
+### Winter 2025 Student Projects
+
+
+| Project Title | Students | TL;DR | GitHub/YouTube |
+|---------------|----------|-------|----------------|
+| | | |[GitHub Link]() <br> [YouTube Link]()|
+
+
+### Spring 2024 Student Projects
+
+
+| Project Title | Students | TL;DR | GitHub/YouTube |
+|---------------|----------|-------|----------------|
+|**Car damage classification with convenext**| [Yarden Shavit] &	[Dor Yogev] & [Ravid Goldenberg]| We fine tune convnext for car damage classification using optuna , DORA and data augmantations| [GitHub Link](https://github.com/Dor-Yogev/DL-vehicle-damage-project/blob/main/README.md)|
+|**Music Genre Classification using MambaVision**|[Tal Oved](https://www.linkedin.com/in/tal-oved-75b46b242/) &	[Dean Efraim](https://www.linkedin.com/in/deanefraim/)|We show that Mamba can be light weight Transformer replacment, and the massive effect of special customed augmantations - more than 5% !|[GitHub Link](https://github.com/ovedtal1/MambaVision-Genre-Classification) <br> [YouTube Link](https://www.youtube.com/watch?v=A9I_awoJk64)|
+|**Exploring Layer-Wise Fine-Tuning of a Pretrained ResNet-50 on CIFAR-100: Impact Analysis and Performance Evaluation**|[Hanan Ben Shitrit] & [Nofar Ben Porat]|We show that changing the number of trainable layers in a transfer learning model can dramatically impact accuracy (we reached 19% difference between two setups), but this also results in increased training time.|[GitHub Link](https://github.com/supernuper/DL_project)|
+|**GoEmotions Sentiment Analysis** | [Dor Shaul] &	[Tal Kogan]|GoEmotions Sentiment Analysis - Benchmarking of LSTM, GRU & RWKV Based Models|[GitHub Link](https://github.com/Tal-Ko/ee046211-DL-Project/tree/main)|
+|**Brain MRI classification to different Altzheimers severities using multiple classification models** |[Idan Magram] &	[Lior Kaplun]| Brain MRI classification to different Altzheimers severities using multiple classification models|[GitHub Link](https://github.com/LiorKaplun/DL-Project-Brain-MRI-Calssification/tree/main)|
+|**The effect of fine-tuning on attention visualization**|[Yuval Ganor](www.linkedin.com/in/yuval-ganor-b0198a249) &	[Noa Raifler](https://www.linkedin.com/in/noa-raifler-946916210/)| Comparing the attention visualization of pre-trained ViT classifications on sports images before and after fine-tuning| [GitHub Link](https://github.com/Yuval-Ganor/Fine-tuning-effect-on-attention-visualization/tree/main)	<br> [YouTube Link](https://www.youtube.com/watch?v=vA741ZBJoug)|
+|**Skin disease Classification - Pretrained models with DoRA method**|[Tzur Bar cochva]	& [Shahar shalam]| We leveraged pretrained models and utilized the DoRA methods to enhance the accuracy and reliability of the skin diseases analysis, while exploring if good results can be achieved with less computational resources.| [GitHub Link](https://github.com/tzurbar/046211)|
+|**Handwritten mathematical exercises - solver.**|[Reut Cohen](https://www.linkedin.com/in/reut-cohen7)	& [Evyatar Cohen]|Training YOLO model to detect and classify handwritten digits and mathematical operators in images, and using this model to solve handwritten math exercises.|[GitHub Link](https://github.com/evyatar1322/Deep-learning-project) <br> [YouTube Link](https://youtu.be/x63VxTs6ZKc)|
+|**BERT vs GPT2: YouTube Video Titles Classifier**| [Roee Marom](https://www.linkedin.com/in/roee-marom-1a8616255/) &	[Netanel Shlomi](https://www.linkedin.com/in/netanel-shlomi/) |finetuning using LoRa and Comparing between BERT and GPT2 next token classification  |[GitHub Link](https://github.com/netanelshlomi/DeepLearnProject)|
+|**Semantic segmantation using deep learning**|[Lior Vovchuk] &	[Almog Adato] | improve semantic segmentation cnn and integrating spatial LSTM layer in it, improving its performance |[GitHub Link](https://github.com/liorvov/semantic_seg_project)|
+|**Vae Gan with classifier**|[Lahav Barak] &	[Gali Eytan] |Improving vae gan architecture with classifier after encoder and find an appropriate training routine  |[GitHub Link](https://github.com/LahavBarak/DLProject) 
+|**BERT-Based Email Classifier**|[Gal Granot] &	[Nir Tevet] | Fine-tuning a BERT pre-trained model in email phishing classification tasks |[GitHub Link](https://github.com/GalGranot/BERT-EmailClassifier) <br> [YouTube Link](https://www.youtube.com/watch?v=XAmi-xOUZUc)|
+|**Personal ChatBot**|[Eden Ninary] &	[Jonathan Bleicher]|train a model base on Mistal 7B and fine tune it on our own whataspp conversation data to create a personal chatbot. |[GitHub Link](https://github.com/edenninary/PersonalChatbot.git)|
+|**Music genre classification using audio spectogram transformer**|[Reuven Ajamy] &	[Gil Saiet]|Fine tune an audio spectrogram transformer using GTZAN dataset to estimate music genre |[GitHub Link](https://github.com/sbajamy/Music-Genre-Classification-Using-Audio-Spectrogram-Transformer) |
+|**Optimizing Bird Species Classification- Self-Supervised vs. Supervised Models**|[Dor Danino](https://www.linkedin.com/in/dor-danino-27aa41237/) &	[Tal Polak](https://www.linkedin.com/in/tal-polak-295020205/)|We used DINOv2 and YOLOv8 to classify bird species and measured their performance  |[GitHub Link](https://github.com/dordanin/Optimizing-Bird-Species-Classification-with-Self-Supervised-and-Supervised-Models)|
+|**WiFi-based human sensing - hand gestures**|[Boris Nesterenko] &	[Snir Carmeli]|Using WiFi Channel State Information to identify handgestures performed by people in a room|[GitHub Link](https://github.com/BorisNes/ViFi)|
+|**Modern Optimizers for Multiclass Tasks**|[Tomer Rudich] &	[Roy Weber]|We compare modern optimizers (Adan, Madgrad and ScheduleFree) with state-of-the-art optimizers |[GitHub Link]() <br> [YouTube Link]()|
+
+
+
 ### Winter 2024 Student Projects
 
 

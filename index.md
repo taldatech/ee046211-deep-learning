@@ -20,14 +20,6 @@ The course is given in the Electrical and Computer Engineering Faculty at the Te
 <a href="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/ideogram_sign_06.png"><img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/gh-pages/ideogram_sign_06.png" height="300"></a>
 </p>
 
-### Winter 2025 Student Projects
-
-
-| Project Title | Students | TL;DR | GitHub/YouTube |
-|---------------|----------|-------|----------------|
-| | | |[GitHub Link]() <br> [YouTube Link]()|
-
-
 ### Spring 2024 Student Projects
 
 
@@ -49,8 +41,24 @@ The course is given in the Electrical and Computer Engineering Faculty at the Te
 |**Music genre classification using audio spectogram transformer**|[Reuven Ajamy] &	[Gil Saiet]|Fine tune an audio spectrogram transformer using GTZAN dataset to estimate music genre |[GitHub Link](https://github.com/sbajamy/Music-Genre-Classification-Using-Audio-Spectrogram-Transformer) |
 |**Optimizing Bird Species Classification- Self-Supervised vs. Supervised Models**|[Dor Danino](https://www.linkedin.com/in/dor-danino-27aa41237/) &	[Tal Polak](https://www.linkedin.com/in/tal-polak-295020205/)|We used DINOv2 and YOLOv8 to classify bird species and measured their performance  |[GitHub Link](https://github.com/dordanin/Optimizing-Bird-Species-Classification-with-Self-Supervised-and-Supervised-Models)|
 |**WiFi-based human sensing - hand gestures**|[Boris Nesterenko] &	[Snir Carmeli]|Using WiFi Channel State Information to identify handgestures performed by people in a room|[GitHub Link](https://github.com/BorisNes/ViFi)|
-|**Modern Optimizers for Multiclass Tasks**|[Tomer Rudich] &	[Roy Weber]|We compare modern optimizers (Adan, Madgrad and ScheduleFree) with state-of-the-art optimizers |[GitHub Link]() <br> [YouTube Link]()|
-
+|**Modern Optimizers for Multiclass Tasks**|[Tomer Rudich] &	[Roy Weber]|We compare modern optimizers (Adan, Madgrad and ScheduleFree) with state-of-the-art optimizers |[GitHub Link](https://github.com/roywe/modern_optimizers_for_multiclass_tasks) <br> [YouTube Link](https://www.youtube.com/watch?v=Lvi8rnl9j_U)|
+|**Starfish Detection Using YOLOv10**|[Idan Oren](https://www.linkedin.com/in/idan-oren-a82423248/) &	[Itai Osiroff](https://www.linkedin.com/in/itai-osiroff/)|We used YOLOv10 for object detection in videos of invasive starfish species in the Australian Great Barrier Reef  |[GitHub Link](https://github.com/idanorenn/Starfish-Object-detection) <br> [YouTube Link](https://youtu.be/YJkGh0gdjaA)|
+|**NBA game Winner predictor**|[Gilad Zilberman] &	[Maayan Ella]|NBA prediction problem is too complex for simple model, best accuracy to the deepest CNN with the longest game history. |[GitHub Link](https://github.com/maayanella/046211-Deep-Learning---Project/tree/main)|
+|**Performance Analysis of Variational Autoencoder (VAE) and Autoencoder (AE) Architectures**|[Ram Binshtock] &	[Sahar Zeltzer] |Examine the impact of various parameters and metrics on the performance of image compression
+using deep neural network (DNN) architectures, specifically Variational Autoencoder (VAE) and Autoencoder. |[GitHub Link](https://github.com/rambinshtokc/DeepCompressionAnalysis)|
+|**Speech Emotion Recognition - Method Comparison**|[Alon Remer](https://www.linkedin.com/in/alon-remer/) &	[Hadar Cohen](https://www.linkedin.com/in/hadar-cohen-240244240/) | Comparing performances of a speech model (Wav2Vec2) and spectrogram-based approaches for Speech Emotion Recongnition |[GitHub Link](https://github.com/alonremer/Speech-Emotion-Recognition-Model-Comparison)|
+|**Video Frame Interpolation of Hydra Regeneration**|[Barak Aharoni] &	[Itay Erlich] |Using VFI Consecutive Brownian Bridge on Hydra regeneration videos to increse frame rate|[GitHub Link](https://github.com/erlichon/Hydra-VFI)|
+|**Classifying political bias in news articles with DistilBERT and LoRA**|[Niv Mirkin] &	[Aviv Levi]| Classifying political bias in news articles using DistilBERT and Low-Rank Adaptation |[GitHub Link](https://github.com/nivmirkin/Classifying-Political-Bias-in-News-Articles-with-DistilBERT-and-LoRA)|
+|**Hebrew Handwritten Spell Checker**|[Chen Tasker] &	[Neta Becker]|We combine multiple models to recognize and fix spelling mistakes in Hebrew. |[GitHub Link](https://github.com/netabecker/handwritten_Hebrew_spellchecking)|
+|**The Next Football Star Predictor**|[Ben Volovelsky] &	[Izar Hasson]|Using various machine learning and deep learning regressors to predict football players potential and market value. |[GitHub Link](https://github.com/volo10/The-Next-Football-Star/tree/main)|
+|**Predicting the Paris 2024 Olympic Medal Table with Transformers**|[Shoham Grunblat](https://www.linkedin.com/in/shoham-grunblat/) &	[Liad Mordechai](https://www.linkedin.com/in/liad-mordechai/)| We used bert-base-uncased extract features from Wikipedia pages of countries and simplify the task of predicting the Olympic medal table using a Neural Network |[GitHub Link](https://github.com/FlyingShohsho/DeepLearningProject)|
+|**ReCAPTCHA V2 decryption using DINOv2 and MambaVision**|[Itamar Horowitz] &	[Salah-Eldin Daher-Sawalmeh]| We showed that DINOv2 significantly outperforms other fine-tuned models in solving ReCAPTCHA v2 puzzles, without the need for transfer learning |[GitHub Link](https://github.com/Itamar-Horowitz/recaptcha-v2-decryption)|
+|**Snake Species Classification -  Comapring CNN and Vision Transformer**|[Or Norman] &	[Sagi Ben Lulu]| Comparing performance of Vision Transformer and CNN pretrained models, when fine tuned and as feature extractors |[GitHub Link](https://github.com/ornorman12/Snake-Species-Classification---Vision-Trasformer-vs-CNN/tree/main)|
+|**What News Are We Consuming? - Fake News Identifier**|[Rom Zilberman] &	[David Frydman]| Short Sentences Fake News Detection with Fine-Tuned BERT, DistilBERT, and ALBERT: Performance Comparison |[GitHub Link](https://github.com/DavidFrydman483/Fake_news_detector)|
+|**Your InsideOut Emotion - Impact of Dropout methods on model performance**|[Adi Bruchian] &	[Noa Solomon Ouzana]| We examined the effect of 4 different dropouts variations on training and model performance  |[GitHub Link](https://github.com/AdiBruchian/what-is-your-Inside-Out-emotion)|
+|**Bot-Ani? twitter bot classification**|[Bar Riesel] & [Aylon Feraru]| using an RWKV model to classify based on the profile whether it belongs to a human or a bot. |[GitHub Link](https://github.com/Max-SF1/Bot-Ani-RWKV-twitter-bot-detection)|
+|**MRI Brain Alzheimer Classification Under Adversarial Attacks**|[Niv Bar-Tov](https://www.linkedin.com/in/niv-bar-tov) &	[Dor Lerman](https://www.linkedin.com/in/dor-lerman-962481336/)| Design a robust model for detecting and classifying Alzheimer disease using MRI brain images that maximizes resilience against adversarial attacks, while maintaining high classification performance. |[GitHub Link](https://github.com/nivbartov/MRI_Brain_Alzheimer_Classification) <br> [YouTube Link](https://www.youtube.com/watch?v=F57_KVQ65NU)|
+|**Stock Market Prediction Using LSTM & Transformer architecture**|[Assaf Levanon] &	[Tal Machavariani]| Using an LSTM+BERT model to inhance stock market predictions, comparisons with naive predictors |[GitHub Link](https://github.com/AssafLe/DLproject) <br> [YouTube Link](https://www.youtube.com/watch?v=sPpGniaHnW4)|
 
 
 ### Winter 2024 Student Projects

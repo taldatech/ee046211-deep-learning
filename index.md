@@ -34,7 +34,7 @@ The course is given in the Electrical and Computer Engineering Faculty at the Te
 |**NBA Stats Transformer: Game Insights with Deep Learning**|[Shadi Safadi](linkedin.com/in/shadi-safadi/) &	Idan Bason||[GitHub Link](https://github.com/safadishadi/NBA-Stats-Transformer-Game-Insights-with-Deep-Learning.git) |
 |**Green Light is All You Need**|[Ariel Pomernachik](https://www.linkedin.com/in/ariel-pomeranchik/) &	Oren Goldberg|A Deep Reinforcement Learning model to control traffic lighted intersections for maximizing traffic flow|[GitHub Link](https://github.com/ArielPom/GreenLightIsAllYouNeed)|
 |**"Mind The Gap" - A Deep Learning Analysis of Pothole Detection**|Itai Benyamin	& Idan Baruch|We trained different SOTA object detection models to detect potholes on the road. Moreover, we tested the models on self synthesized motion blur noise with varying amplitudes to simulate the effect of a video camera in real life. |[GitHub Link](https://github.com/Itai-b/046211-Deep-Learning) <br> [YouTube Link](https://youtu.be/Lghsg8BiNpw)|
-|**Comparison of Artificial Neural Networks (ANN) and Spiking Neural Networks (SNN)**|[Ido Becher](https://www.linkedin.com/in/ido-becher/) &	[Rishona Daniels](https://www.linkedin.com/in/rishona-daniels/)|[GitHub Link](https://github.com/rishonadaniels/Comparasion_of_ANN_and_SNN)|
+|**Comparison of Artificial Neural Networks (ANN) and Spiking Neural Networks (SNN)**|[Ido Becher](https://www.linkedin.com/in/ido-becher/) &	[Rishona Daniels](https://www.linkedin.com/in/rishona-daniels/)|We compare ANNs and SNN in terms of accuracy, training time and model size. |[GitHub Link](https://github.com/rishonadaniels/Comparasion_of_ANN_and_SNN)|
 
 
 ### Spring 2024 Student Projects
